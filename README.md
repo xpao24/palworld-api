@@ -5,7 +5,6 @@
 <h3 align="center">
   Palworld Pal API
 </h3>
-<h6 align="center"><i>Palworld API</i></h6>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/xpao24/palworld-pal-api.svg">
