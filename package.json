@@ -1,0 +1,20 @@
+{
+  "name": "paldex-api",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "@elysiajs/static": "^0.8.1",
+    "elasticlunr": "^0.9.5",
+    "elysia": "latest"
+  },
+  "scripts": {
+    "start": "bun --watch run ./src/index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/elasticlunr": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
