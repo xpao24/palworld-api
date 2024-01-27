@@ -8,6 +8,7 @@
     "elysia": "latest"
   },
   "scripts": {
+    "build": "bun build",
     "start": "bun --watch run ./src/index.ts"
   },
   "devDependencies": {
