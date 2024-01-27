@@ -1,5 +1,5 @@
 {
-  "name": "paldex-api",
+  "name": "palworld-pal-api",
   "module": "index.ts",
   "type": "module",
   "dependencies": {

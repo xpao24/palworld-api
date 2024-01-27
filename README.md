@@ -3,27 +3,26 @@
 </h1>
 
 <h3 align="center">
-  Palworld Paldex API
+  Palworld Pal API
 </h3>
 <h6 align="center"><i>First Palworld API</i></h6>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mlg404/palworld-paldex-api.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/xpao24/palworld-pal-api.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mlg404/palworld-paldex-api.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/xpao24/palworld-pal-api.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mlg404/palworld-paldex-api.svg">
-  <a href="https://github.com/mlg404/palworld-paldex-api/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mlg404/palworld-paldex-api.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/xpao24/palworld-pal-api.svg">
+  <a href="https://github.com/xpao24/palworld-pal-api/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xpao24/palworld-pal-api.svg">
   </a>
 
-  <a href="https://github.com/mlg404/palworld-paldex-api/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/mlg404/palworld-paldex-api.svg">
-  </a>
+  <a href="https://github.com/xpao24/palworld-pal-api/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/xpao24/palworld-pal-api.svg">
+  </a>◊
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/mlg404/palworld-paldex-api.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/xpao24/palworld-pal-api.svg">
 </p>
-<p align="center"><a href="https://www.buymeacoffee.com/mlg404"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mlg404&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a></p>
 
 <p align="center">
   <a href="#rocket-info">Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -152,13 +151,13 @@ To clone this application you will need [Git](https://git-scm.com) + [bun](https
 ##### Clone this repo #####
 
 # https
-$ git clone https://github.com/mlg404/palworld-paldex-api.git
+$ git clone https://github.com/xpao24/palworld-pal-api.git
 
 # ssh
-$ git clone git@github.com:mlg404/palworld-paldex-api.git
+$ git clone git@github.com:xpao24/palworld-pal-api.git
 
 ##### Access this repo #####
-$ cd palworld-paldex-api
+$ cd palworld-pal-api
 
 ##### Install dependencies #####
 $ bun install
@@ -221,12 +220,10 @@ Open a pull request with your branch. After pull request merge, you should delet
 
 ## :memo: License
 
-This project is under MIT license. See [LICENSE](https://github.com/mlg404/palworld-paldex-api/blob/master/LICENSE) for more information.
+This project is under MIT license. See [LICENSE](https://github.com/xpao24/palworld-pal-api/blob/master/LICENSE) for more information.
 
 ---
 
-Made with 💙 by Victor Eyer :wave: [Get in touch!](https://www.linkedin.com/in/victoreyer/)
-
-[vc]: https://code.visualstudio.com/
+Made with 💙 by Lucass Lee :wave: [Get in touch!](https://twitter.com/xpao24)
 
 This project was created using `bun init` in bun v1.0.25. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
