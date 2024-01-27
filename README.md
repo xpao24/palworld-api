@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img alt="Palworld Paldex" title="Palworld Paldex" src=".github/pal.png" width="200px" />
+  <img alt="Palworld Pal Api" title="Palworld Pal Api" src=".github/pal.png" width="200px" />
 </h1>
 
 <h3 align="center">
   Palworld Pal API
 </h3>
-<h6 align="center"><i>First Palworld API</i></h6>
+<h6 align="center"><i>Palworld API</i></h6>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/xpao24/palworld-pal-api.svg">
