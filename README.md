@@ -18,7 +18,7 @@
 
   <a href="https://github.com/xpao24/palworld-pal-api/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/xpao24/palworld-pal-api.svg">
-  </a>◊
+  </a>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/xpao24/palworld-pal-api.svg">
 </p>
@@ -34,7 +34,7 @@
 
 ## :rocket: Info
 
-This is the first Palworld API, it's a simple API to get all Palworld Paldex data.
+This is the Palworld API, it's a simple API to get all Palworld Paldex data.
 This is what final data looks like:
 
 ```json
