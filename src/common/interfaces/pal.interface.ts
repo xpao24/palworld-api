@@ -16,4 +16,5 @@ export interface IPal {
   aura: IAura;
   wiki: string;
   skills: ISkill[];
+  power: number;
 }
