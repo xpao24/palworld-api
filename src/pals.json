@@ -90,7 +90,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1470
+    "power": 1470,
+    "order": 27
   },
   {
     "id": 2,
@@ -186,7 +187,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1460
+    "power": 1460,
+    "order": 46
   },
   {
     "id": 3,
@@ -275,7 +277,8 @@
         "description": "Generates two flaming tornadoes on either side before launching them at an enemy.\n"
       }
     ],
-    "power": 1500
+    "power": 1500,
+    "order": 62
   },
   {
     "id": 4,
@@ -376,7 +379,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1430
+    "power": 1430,
+    "order": 7
   },
   {
     "id": 5,
@@ -461,7 +465,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 1400
+    "power": 1400,
+    "order": 20
   },
   {
     "id": 6,
@@ -554,7 +559,8 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 1330
+    "power": 1330,
+    "order": 59
   },
   {
     "id": 7,
@@ -646,7 +652,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 1410
+    "power": 1410,
+    "order": 65
   },
   {
     "id": 8,
@@ -746,7 +753,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1250
+    "power": 1250,
+    "order": 107
   },
   {
     "id": 9,
@@ -831,7 +839,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 1155
+    "power": 1155,
+    "order": 138
   },
   {
     "id": 10,
@@ -929,7 +938,8 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 1350
+    "power": 1350,
+    "order": 23
   },
   {
     "id": 11,
@@ -1031,7 +1041,8 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 520
+    "power": 520,
+    "order": 122
   },
   {
     "id": 12,
@@ -1115,7 +1126,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 1370
+    "power": 1370,
+    "order": 17
   },
   {
     "id": 13,
@@ -1201,7 +1213,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1240
+    "power": 1240,
+    "order": 112
   },
   {
     "id": 14,
@@ -1290,7 +1303,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1450
+    "power": 1450,
+    "order": 79
   },
   {
     "id": 15,
@@ -1375,7 +1389,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1390
+    "power": 1390,
+    "order": 82
   },
   {
     "id": 16,
@@ -1459,7 +1474,8 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 1490
+    "power": 1490,
+    "order": 14
   },
   {
     "id": 17,
@@ -1551,7 +1567,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1380
+    "power": 1380,
+    "order": 47
   },
   {
     "id": 18,
@@ -1639,7 +1656,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 1455
+    "power": 1455,
+    "order": 135
   },
   {
     "id": 19,
@@ -1732,7 +1750,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1230
+    "power": 1230,
+    "order": 106
   },
   {
     "id": 20,
@@ -1818,7 +1837,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1130
+    "power": 1130,
+    "order": 6
   },
   {
     "id": 21,
@@ -1903,7 +1923,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1180
+    "power": 1180,
+    "order": 121
   },
   {
     "id": 22,
@@ -1995,7 +2016,8 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 1220
+    "power": 1220,
+    "order": 101
   },
   {
     "id": 23,
@@ -2083,7 +2105,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1290
+    "power": 1290,
+    "order": 85
   },
   {
     "id": 24,
@@ -2167,7 +2190,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1480
+    "power": 1480,
+    "order": 4
   },
   {
     "id": 25,
@@ -2255,7 +2279,8 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 870
+    "power": 870,
+    "order": 128
   },
   {
     "id": 26,
@@ -2341,7 +2366,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1060
+    "power": 1060,
+    "order": 15
   },
   {
     "id": 27,
@@ -2426,7 +2452,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1340
+    "power": 1340,
+    "order": 8
   },
   {
     "id": 28,
@@ -2527,7 +2554,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1280
+    "power": 1280,
+    "order": 91
   },
   {
     "id": 29,
@@ -2612,7 +2640,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 910
+    "power": 910,
+    "order": 86
   },
   {
     "id": 30,
@@ -2713,7 +2742,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1320
+    "power": 1320,
+    "order": 21
   },
   {
     "id": 31,
@@ -2805,7 +2835,8 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 1090
+    "power": 1090,
+    "order": 25
   },
   {
     "id": 32,
@@ -2897,7 +2928,8 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 1420
+    "power": 1420,
+    "order": 31
   },
   {
     "id": 33,
@@ -2995,7 +3027,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 430
+    "power": 430,
+    "order": 97
   },
   {
     "id": 34,
@@ -3080,7 +3113,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1190
+    "power": 1190,
+    "order": 39
   },
   {
     "id": 35,
@@ -3170,7 +3204,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 930
+    "power": 930,
+    "order": 75
   },
   {
     "id": 36,
@@ -3255,7 +3290,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 890
+    "power": 890,
+    "order": 41
   },
   {
     "id": 37,
@@ -3341,7 +3377,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 920
+    "power": 920,
+    "order": 9
   },
   {
     "id": 38,
@@ -3425,7 +3462,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 420
+    "power": 420,
+    "order": 90
   },
   {
     "id": 39,
@@ -3518,7 +3556,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1310
+    "power": 1310,
+    "order": 117
   },
   {
     "id": 40,
@@ -3616,7 +3655,8 @@
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
     ],
-    "power": 590
+    "power": 590,
+    "order": 2
   },
   {
     "id": 41,
@@ -3706,7 +3746,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 490
+    "power": 490,
+    "order": 132
   },
   {
     "id": 42,
@@ -3795,7 +3836,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 790
+    "power": 790,
+    "order": 99
   },
   {
     "id": 43,
@@ -3831,7 +3873,8 @@
     },
     "description": "When too relaxed, its reaction time drastically declines.\nEven if it were sliced from head to tail, it probably wouldn't even realize that it should be dead until the next morning.",
     "skills": [],
-    "power": 895
+    "power": 895,
+    "order": 136
   },
   {
     "id": 44,
@@ -3917,7 +3960,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1080
+    "power": 1080,
+    "order": 44
   },
   {
     "id": 45,
@@ -4010,7 +4054,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1120
+    "power": 1120,
+    "order": 57
   },
   {
     "id": 46,
@@ -4094,7 +4139,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 950
+    "power": 950,
+    "order": 30
   },
   {
     "id": 47,
@@ -4179,7 +4225,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1030
+    "power": 1030,
+    "order": 12
   },
   {
     "id": 48,
@@ -4284,7 +4331,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1020
+    "power": 1020,
+    "order": 52
   },
   {
     "id": 49,
@@ -4377,7 +4425,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1040
+    "power": 1040,
+    "order": 16
   },
   {
     "id": 50,
@@ -4485,7 +4534,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1070
+    "power": 1070,
+    "order": 95
   },
   {
     "id": 51,
@@ -4586,7 +4636,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 330
+    "power": 330,
+    "order": 94
   },
   {
     "id": 52,
@@ -4670,7 +4721,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 510
+    "power": 510,
+    "order": 131
   },
   {
     "id": 53,
@@ -4758,7 +4810,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 1300
+    "power": 1300,
+    "order": 114
   },
   {
     "id": 54,
@@ -4846,7 +4899,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 410
+    "power": 410,
+    "order": 115
   },
   {
     "id": 55,
@@ -4935,7 +4989,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 800
+    "power": 800,
+    "order": 123
   },
   {
     "id": 56,
@@ -5025,7 +5080,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 680
+    "power": 680,
+    "order": 19
   },
   {
     "id": 57,
@@ -5110,7 +5166,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 760
+    "power": 760,
+    "order": 104
   },
   {
     "id": 58,
@@ -5199,7 +5256,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 360
+    "power": 360,
+    "order": 35
   },
   {
     "id": 59,
@@ -5290,7 +5348,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 880
+    "power": 880,
+    "order": 76
   },
   {
     "id": 60,
@@ -5374,7 +5433,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 740
+    "power": 740,
+    "order": 100
   },
   {
     "id": 61,
@@ -5459,7 +5519,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 830
+    "power": 830,
+    "order": 56
   },
   {
     "id": 62,
@@ -5551,7 +5612,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 1210
+    "power": 1210,
+    "order": 24
   },
   {
     "id": 63,
@@ -5643,7 +5705,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1110
+    "power": 1110,
+    "order": 22
   },
   {
     "id": 64,
@@ -5732,7 +5795,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 820
+    "power": 820,
+    "order": 63
   },
   {
     "id": 65,
@@ -5816,7 +5880,8 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 560
+    "power": 560,
+    "order": 42
   },
   {
     "id": 66,
@@ -5905,7 +5970,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1150
+    "power": 1150,
+    "order": 51
   },
   {
     "id": 67,
@@ -5990,7 +6056,8 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 850
+    "power": 850,
+    "order": 11
   },
   {
     "id": 68,
@@ -6083,7 +6150,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 750
+    "power": 750,
+    "order": 96
   },
   {
     "id": 69,
@@ -6182,7 +6250,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 940
+    "power": 940,
+    "order": 81
   },
   {
     "id": 70,
@@ -6279,7 +6348,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 1405
+    "power": 1405,
+    "order": 137
   },
   {
     "id": 71,
@@ -6370,7 +6440,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 660
+    "power": 660,
+    "order": 60
   },
   {
     "id": 72,
@@ -6471,7 +6542,8 @@
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
     ],
-    "power": 640
+    "power": 640,
+    "order": 127
   },
   {
     "id": 73,
@@ -6563,7 +6635,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 220
+    "power": 220,
+    "order": 118
   },
   {
     "id": 74,
@@ -6651,7 +6724,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 380
+    "power": 380,
+    "order": 126
   },
   {
     "id": 75,
@@ -6745,7 +6819,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 700
+    "power": 700,
+    "order": 116
   },
   {
     "id": 76,
@@ -6838,7 +6913,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 1160
+    "power": 1160,
+    "order": 80
   },
   {
     "id": 77,
@@ -6939,7 +7015,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 990
+    "power": 990,
+    "order": 103
   },
   {
     "id": 78,
@@ -7040,7 +7117,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1050
+    "power": 1050,
+    "order": 89
   },
   {
     "id": 79,
@@ -7133,7 +7211,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 450
+    "power": 450,
+    "order": 78
   },
   {
     "id": 80,
@@ -7217,7 +7296,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 540
+    "power": 540,
+    "order": 37
   },
   {
     "id": 81,
@@ -7302,7 +7382,8 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 1260
+    "power": 1260,
+    "order": 83
   },
   {
     "id": 82,
@@ -7388,7 +7469,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 500
+    "power": 500,
+    "order": 45
   },
   {
     "id": 83,
@@ -7480,7 +7562,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 130
+    "power": 130,
+    "order": 40
   },
   {
     "id": 84,
@@ -7568,7 +7651,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 710
+    "power": 710,
+    "order": 108
   },
   {
     "id": 85,
@@ -7658,7 +7742,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 280
+    "power": 280,
+    "order": 54
   },
   {
     "id": 86,
@@ -7743,7 +7828,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 860
+    "power": 860,
+    "order": 71
   },
   {
     "id": 87,
@@ -7843,7 +7929,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 780
+    "power": 780,
+    "order": 130
   },
   {
     "id": 88,
@@ -7932,7 +8019,8 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 320
+    "power": 320,
+    "order": 49
   },
   {
     "id": 89,
@@ -8016,7 +8104,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 470
+    "power": 470,
+    "order": 110
   },
   {
     "id": 90,
@@ -8110,7 +8199,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 300
+    "power": 300,
+    "order": 68
   },
   {
     "id": 91,
@@ -8207,7 +8297,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 460
+    "power": 460,
+    "order": 87
   },
   {
     "id": 92,
@@ -8304,7 +8395,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 340
+    "power": 340,
+    "order": 119
   },
   {
     "id": 93,
@@ -8389,7 +8481,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 980
+    "power": 980,
+    "order": 48
   },
   {
     "id": 94,
@@ -8474,7 +8567,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1010
+    "power": 1010,
+    "order": 70
   },
   {
     "id": 95,
@@ -8570,7 +8664,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 350
+    "power": 350,
+    "order": 124
   },
   {
     "id": 96,
@@ -8659,7 +8754,8 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 10
+    "power": 10,
+    "order": 74
   },
   {
     "id": 97,
@@ -8744,7 +8840,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 190
+    "power": 190,
+    "order": 125
   },
   {
     "id": 98,
@@ -8834,7 +8931,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 150
+    "power": 150,
+    "order": 102
   },
   {
     "id": 99,
@@ -8924,7 +9022,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 260
+    "power": 260,
+    "order": 133
   },
   {
     "id": 100,
@@ -9018,7 +9117,8 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 570
+    "power": 570,
+    "order": 1
   },
   {
     "id": 101,
@@ -9103,7 +9203,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 310
+    "power": 310,
+    "order": 28
   },
   {
     "id": 102,
@@ -9187,7 +9288,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 50
+    "power": 50,
+    "order": 33
   },
   {
     "id": 103,
@@ -9284,7 +9386,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 200
+    "power": 200,
+    "order": 13
   },
   {
     "id": 104,
@@ -9382,7 +9485,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 250
+    "power": 250,
+    "order": 92
   },
   {
     "id": 105,
@@ -9470,7 +9574,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 370
+    "power": 370,
+    "order": 73
   },
   {
     "id": 106,
@@ -9563,7 +9668,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 140
+    "power": 140,
+    "order": 134
   },
   {
     "id": 107,
@@ -9649,7 +9755,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 60
+    "power": 60,
+    "order": 77
   },
   {
     "id": 108,
@@ -9738,7 +9845,8 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 80
+    "power": 80,
+    "order": 120
   },
   {
     "id": 109,
@@ -9827,7 +9935,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 70
+    "power": 70,
+    "order": 129
   },
   {
     "id": 110,
@@ -9912,7 +10021,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 120
+    "power": 120,
+    "order": 66
   },
   {
     "id": 111,
@@ -9999,7 +10109,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 90
+    "power": 90,
+    "order": 105
   },
   {
     "id": 112,
@@ -10083,7 +10194,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 1360
+    "power": 1360,
+    "order": 18
   },
   {
     "id": 113,
@@ -10172,7 +10284,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 1440
+    "power": 1440,
+    "order": 5
   },
   {
     "id": 114,
@@ -10264,7 +10377,8 @@
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
     ],
-    "power": 1100
+    "power": 1100,
+    "order": 26
   },
   {
     "id": 115,
@@ -10361,7 +10475,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 1422
+    "power": 1422,
+    "order": 32
   },
   {
     "id": 116,
@@ -10459,7 +10574,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 390
+    "power": 390,
+    "order": 98
   },
   {
     "id": 117,
@@ -10545,7 +10661,8 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 900
+    "power": 900,
+    "order": 10
   },
   {
     "id": 118,
@@ -10638,7 +10755,8 @@
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
     ],
-    "power": 580
+    "power": 580,
+    "order": 3
   },
   {
     "id": 119,
@@ -10735,7 +10853,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 1140
+    "power": 1140,
+    "order": 58
   },
   {
     "id": 120,
@@ -10837,7 +10956,8 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 1000
+    "power": 1000,
+    "order": 53
   },
   {
     "id": 121,
@@ -10927,7 +11047,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 240
+    "power": 240,
+    "order": 36
   },
   {
     "id": 122,
@@ -11016,7 +11137,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 810
+    "power": 810,
+    "order": 64
   },
   {
     "id": 123,
@@ -11100,7 +11222,8 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 550
+    "power": 550,
+    "order": 43
   },
   {
     "id": 124,
@@ -11191,7 +11314,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 620
+    "power": 620,
+    "order": 61
   },
   {
     "id": 125,
@@ -11280,7 +11404,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 530
+    "power": 530,
+    "order": 38
   },
   {
     "id": 126,
@@ -11365,7 +11490,8 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 1270
+    "power": 1270,
+    "order": 84
   },
   {
     "id": 127,
@@ -11454,7 +11580,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 670
+    "power": 670,
+    "order": 109
   },
   {
     "id": 128,
@@ -11545,7 +11672,8 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 270
+    "power": 270,
+    "order": 55
   },
   {
     "id": 129,
@@ -11631,7 +11759,8 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 840
+    "power": 840,
+    "order": 72
   },
   {
     "id": 130,
@@ -11720,7 +11849,8 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 230
+    "power": 230,
+    "order": 50
   },
   {
     "id": 131,
@@ -11809,7 +11939,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 440
+    "power": 440,
+    "order": 111
   },
   {
     "id": 132,
@@ -11903,7 +12034,8 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 290
+    "power": 290,
+    "order": 69
   },
   {
     "id": 133,
@@ -12001,7 +12133,8 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 480
+    "power": 480,
+    "order": 88
   },
   {
     "id": 134,
@@ -12087,7 +12220,8 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 315
+    "power": 315,
+    "order": 29
   },
   {
     "id": 135,
@@ -12171,7 +12305,8 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 30
+    "power": 30,
+    "order": 34
   },
   {
     "id": 136,
@@ -12265,7 +12400,8 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 210
+    "power": 210,
+    "order": 93
   },
   {
     "id": 137,
@@ -12350,6 +12486,7 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 100
+    "power": 100,
+    "order": 67
   }
 ]

@@ -17,4 +17,5 @@ export interface IPal {
   wiki: string;
   skills: ISkill[];
   power: number;
+  order: number;
 }
