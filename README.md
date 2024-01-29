@@ -121,7 +121,9 @@ This is what final data looks like:
           "power": 150,
           "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
         }
-      ]
+      ],
+      "power": 280,
+      "order": 54   
     }
   ],
   "page": 1,
