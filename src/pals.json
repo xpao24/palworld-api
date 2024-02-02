@@ -24,8 +24,16 @@
       }
     ],
     "drops": [
-      "Wool",
-      "Lamball Mutton"
+      {
+        "name": "Wool",
+        "amount": "1 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Lamball Mutton",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Fluffy Shield",
@@ -90,8 +98,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1470,
-    "order": 27
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "23"
+      }
+    ]
   },
   {
     "id": 2,
@@ -122,7 +175,11 @@
       }
     ],
     "drops": [
-      "Red Berries"
+      {
+        "name": "Red Berries",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Cat Helper",
@@ -187,8 +244,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1460,
-    "order": 46
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 3,
@@ -211,8 +313,16 @@
       }
     ],
     "drops": [
-      "Egg",
-      "Chikipi Poultry"
+      {
+        "name": "Egg",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Chikipi Poultry",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Egg Layer",
@@ -277,8 +387,53 @@
         "description": "Generates two flaming tornadoes on either side before launching them at an enemy.\n"
       }
     ],
-    "power": 1500,
-    "order": 62
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "60"
+      },
+      {
+        "name": "Defense",
+        "value": "60"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "60"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "70"
+      },
+      {
+        "name": "Running Speed",
+        "value": "375"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 4,
@@ -313,8 +468,16 @@
       }
     ],
     "drops": [
-      "Berry Seeds",
-      "Low Grade Medical Supplies"
+      {
+        "name": "Berry Seeds",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Low Grade Medical Supplies",
+        "amount": "1 - 1",
+        "rate": "20%"
+      }
     ],
     "aura": {
       "name": "Lifmunk Recoil",
@@ -379,8 +542,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1430,
-    "order": 7
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "75"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1010"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "20"
+      }
+    ]
   },
   {
     "id": 5,
@@ -399,8 +607,16 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Flame Organ"
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Huggy Fire",
@@ -465,8 +681,53 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 1400,
-    "order": 20
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "65"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "75"
+      },
+      {
+        "name": "Price",
+        "value": "1040"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "40"
+      }
+    ]
   },
   {
     "id": 6,
@@ -493,8 +754,16 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Pal Fluids"
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Pal Fluids",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Surfing Slam",
@@ -559,8 +828,53 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 1330,
-    "order": 59
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "60"
+      },
+      {
+        "name": "Defense",
+        "value": "60"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "1120"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "400"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 7,
@@ -587,7 +901,11 @@
       }
     ],
     "drops": [
-      "Electric Organ"
+      {
+        "name": "Electric Organ",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Static Electricity",
@@ -652,8 +970,53 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 1410,
-    "order": 65
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "60"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "60"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "75"
+      },
+      {
+        "name": "Price",
+        "value": "1030"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "80"
+      },
+      {
+        "name": "Running Speed",
+        "value": "350"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "500"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "40"
+      }
+    ]
   },
   {
     "id": 8,
@@ -688,7 +1051,11 @@
       }
     ],
     "drops": [
-      "Mushroom"
+      {
+        "name": "Mushroom",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Cheery Rifle",
@@ -753,8 +1120,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1250,
-    "order": 107
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1280"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "400"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "48"
+      }
+    ]
   },
   {
     "id": 9,
@@ -773,8 +1185,16 @@
       }
     ],
     "drops": [
-      "Flame Organ",
-      "Leather"
+      {
+        "name": "Flame Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Tiny Spark",
@@ -839,8 +1259,53 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 1155,
-    "order": 138
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "75"
+      },
+      {
+        "name": "Defense",
+        "value": "75"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "2950"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 10,
@@ -872,8 +1337,16 @@
       }
     ],
     "drops": [
-      "Ice Organ",
-      "Pal Fluids"
+      {
+        "name": "Ice Organ",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Pal Fluids",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Pengullet Cannon",
@@ -938,8 +1411,53 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 1350,
-    "order": 23
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "75"
+      },
+      {
+        "name": "Price",
+        "value": "1080"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "500"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "650"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 11,
@@ -975,8 +1493,16 @@
       }
     ],
     "drops": [
-      "Ice Organ",
-      "Penking Plume"
+      {
+        "name": "Ice Organ",
+        "amount": "1 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Penking Plume",
+        "amount": "1 - 1",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Brave Sailor",
@@ -1041,8 +1567,53 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 520,
-    "order": 122
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "95"
+      },
+      {
+        "name": "Defense",
+        "value": "95"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "5410"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "450"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "600"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 12,
@@ -1061,7 +1632,11 @@
       }
     ],
     "drops": [
-      "Electric Organ"
+      {
+        "name": "Electric Organ",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Jolt Bomb",
@@ -1126,8 +1701,53 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 1370,
-    "order": 17
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "75"
+      },
+      {
+        "name": "Price",
+        "value": "1060"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 13,
@@ -1147,8 +1767,16 @@
       }
     ],
     "drops": [
-      "Berry Seeds",
-      "Gumoss Leaf"
+      {
+        "name": "Berry Seeds",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Gumoss Leaf",
+        "amount": "1 - 1",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Logging Assistance",
@@ -1213,8 +1841,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1240,
-    "order": 112
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1310"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "400"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 14,
@@ -1237,8 +1910,16 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Bone"
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Bone",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Dig Here!",
@@ -1303,8 +1984,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1450,
-    "order": 79
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "140"
+      },
+      {
+        "name": "Running Speed",
+        "value": "350"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "450"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 15,
@@ -1323,8 +2049,16 @@
       }
     ],
     "drops": [
-      "Fiber",
-      "High Grade Technical Manual"
+      {
+        "name": "Fiber",
+        "amount": "5 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "High Grade Technical Manual",
+        "amount": "1 - 1",
+        "rate": "1%"
+      }
     ],
     "aura": {
       "name": "Dark Knowledge",
@@ -1389,8 +2123,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1390,
-    "order": 82
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1050"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "380"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "26"
+      }
+    ]
   },
   {
     "id": 16,
@@ -1409,7 +2188,11 @@
       }
     ],
     "drops": [
-      "Pal Fluids"
+      {
+        "name": "Pal Fluids",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Soothing Shower",
@@ -1474,8 +2257,53 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 1490,
-    "order": 14
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "60"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "400"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 17,
@@ -1502,7 +2330,11 @@
       }
     ],
     "drops": [
-      "Venom Gland"
+      {
+        "name": "Venom Gland",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Caffeine Inoculation",
@@ -1567,8 +2399,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1380,
-    "order": 47
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1050"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "400"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "10"
+      }
+    ]
   },
   {
     "id": 18,
@@ -1591,7 +2468,11 @@
       }
     ],
     "drops": [
-      "Wool"
+      {
+        "name": "Wool",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Fluffy Wool",
@@ -1656,8 +2537,53 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 1455,
-    "order": 135
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "75"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1420"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "450"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "20"
+      }
+    ]
   },
   {
     "id": 19,
@@ -1684,8 +2610,16 @@
       }
     ],
     "drops": [
-      "Venom Gland",
-      "Small Pal Soul"
+      {
+        "name": "Venom Gland",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Small Pal Soul",
+        "amount": "1 - 1",
+        "rate": "1%"
+      }
     ],
     "aura": {
       "name": "Dream Chaser",
@@ -1750,8 +2684,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1230,
-    "order": 106
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "60"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "75"
+      },
+      {
+        "name": "Price",
+        "value": "1330"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 20,
@@ -1770,9 +2749,21 @@
       }
     ],
     "drops": [
-      "Rushoar Pork",
-      "Leather",
-      "Bone"
+      {
+        "name": "Rushoar Pork",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Bone",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Hard Head",
@@ -1837,8 +2828,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1130,
-    "order": 6
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1680"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "450"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 21,
@@ -1857,8 +2893,16 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Small Pal Soul"
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Small Pal Soul",
+        "amount": "1 - 1",
+        "rate": "40%"
+      }
     ],
     "aura": {
       "name": "Kuudere",
@@ -1923,8 +2967,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1180,
-    "order": 121
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "75"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "85"
+      },
+      {
+        "name": "Price",
+        "value": "1480"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "140"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "500"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 22,
@@ -1951,7 +3040,11 @@
       }
     ],
     "drops": [
-      "Leather"
+      {
+        "name": "Leather",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Ore Detector",
@@ -2016,8 +3109,53 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 1220,
-    "order": 101
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "65"
+      },
+      {
+        "name": "Defense",
+        "value": "50"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "1360"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 23,
@@ -2040,7 +3178,11 @@
       }
     ],
     "drops": [
-      "Venom Gland"
+      {
+        "name": "Venom Gland",
+        "amount": "2 - 4",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Fried Squid",
@@ -2105,8 +3247,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1290,
-    "order": 85
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "60"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "60"
+      },
+      {
+        "name": "Price",
+        "value": "1200"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "60"
+      }
+    ]
   },
   {
     "id": 24,
@@ -2125,7 +3312,11 @@
       }
     ],
     "drops": [
-      "Gold Coin"
+      {
+        "name": "Gold Coin",
+        "amount": "100 - 200",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Gold Digger",
@@ -2190,8 +3381,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1480,
-    "order": 4
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "60"
+      },
+      {
+        "name": "Price",
+        "value": "1000"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "475"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "52"
+      }
+    ]
   },
   {
     "id": 25,
@@ -2214,7 +3450,11 @@
       }
     ],
     "drops": [
-      "Pal Fluids"
+      {
+        "name": "Pal Fluids",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Zephyr Glider",
@@ -2279,8 +3519,53 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 870,
-    "order": 128
+    "rarity": 3,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "2860"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "550"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 26,
@@ -2299,9 +3584,21 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Ruby",
-      "Gold Coin"
+      {
+        "name": "Leather",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Ruby",
+        "amount": "1 - 1",
+        "rate": "3%"
+      },
+      {
+        "name": "Gold Coin",
+        "amount": "10 - 20",
+        "rate": "3%"
+      }
     ],
     "aura": {
       "name": "Direhowl Rider",
@@ -2366,8 +3663,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1060,
-    "order": 15
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "75"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "110"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "1920"
+      },
+      {
+        "name": "Stamina",
+        "value": "70"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "800"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1050"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "90"
+      }
+    ]
   },
   {
     "id": 27,
@@ -2386,8 +3728,16 @@
       }
     ],
     "drops": [
-      "Gunpowder",
-      "Tocotoco Feather"
+      {
+        "name": "Gunpowder",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Tocotoco Feather",
+        "amount": "1 - 1",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Eggbomb Launcher",
@@ -2452,8 +3802,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1340,
-    "order": 8
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "60"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "75"
+      },
+      {
+        "name": "Price",
+        "value": "1090"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "70"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 28,
@@ -2488,8 +3883,16 @@
       }
     ],
     "drops": [
-      "Low Grade Medical Supplies",
-      "Wheat Seeds"
+      {
+        "name": "Low Grade Medical Supplies",
+        "amount": "1 - 1",
+        "rate": "20%"
+      },
+      {
+        "name": "Wheat Seeds",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Helper Bunny",
@@ -2554,8 +3957,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1280,
-    "order": 91
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "75"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "65"
+      },
+      {
+        "name": "Price",
+        "value": "1220"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 29,
@@ -2574,8 +4022,16 @@
       }
     ],
     "drops": [
-      "Mozzarina Meat",
-      "Milk"
+      {
+        "name": "Mozzarina Meat",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Milk",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Milk Maker",
@@ -2640,8 +4096,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 910,
-    "order": 86
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "50"
+      },
+      {
+        "name": "Price",
+        "value": "2620"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "580"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "55"
+      }
+    ]
   },
   {
     "id": 30,
@@ -2676,8 +4177,16 @@
       }
     ],
     "drops": [
-      "Wheat Seeds",
-      "Lettuce Seeds"
+      {
+        "name": "Wheat Seeds",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Lettuce Seeds",
+        "amount": "1 - 1",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Princess Gaze",
@@ -2742,8 +4251,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1320,
-    "order": 21
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "1140"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 31,
@@ -2770,7 +4324,11 @@
       }
     ],
     "drops": [
-      "Pal Fluids"
+      {
+        "name": "Pal Fluids",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Angry Shark",
@@ -2835,8 +4393,53 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 1090,
-    "order": 25
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "75"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "90"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "1840"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "500"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 32,
@@ -2863,7 +4466,11 @@
       }
     ],
     "drops": [
-      "Fiber"
+      {
+        "name": "Fiber",
+        "amount": "5 - 10",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Flying Trapeze",
@@ -2928,8 +4535,53 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 1420,
-    "order": 31
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1020"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 33,
@@ -2960,9 +4612,21 @@
       }
     ],
     "drops": [
-      "Mushroom",
-      "Leather",
-      "Tomato Seeds"
+      {
+        "name": "Mushroom",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Tomato Seeds",
+        "amount": "1 - 1",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Grenadier Panda",
@@ -3027,8 +4691,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 430,
-    "order": 97
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "6200"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "500"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 34,
@@ -3047,8 +4756,16 @@
       }
     ],
     "drops": [
-      "Cotton Candy",
-      "High Quality Pal Oil"
+      {
+        "name": "Cotton Candy",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Candy Pop",
@@ -3113,8 +4830,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1190,
-    "order": 39
+    "rarity": 3,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1450"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "400"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 35,
@@ -3137,9 +4899,21 @@
       }
     ],
     "drops": [
-      "Caprity Meat",
-      "Red Berries",
-      "Horn"
+      {
+        "name": "Caprity Meat",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Red Berries",
+        "amount": "2 - 4",
+        "rate": "100%"
+      },
+      {
+        "name": "Horn",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Berry Picker",
@@ -3204,8 +4978,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 930,
-    "order": 75
+    "rarity": 3,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "2510"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "120"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 36,
@@ -3224,8 +5043,16 @@
       }
     ],
     "drops": [
-      "Wool",
-      "Leather"
+      {
+        "name": "Wool",
+        "amount": "2 - 5",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Pacapaca Wool",
@@ -3290,8 +5117,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 890,
-    "order": 41
+    "rarity": 3,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "90"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "75"
+      },
+      {
+        "name": "Price",
+        "value": "2740"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "460"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "62"
+      }
+    ]
   },
   {
     "id": 37,
@@ -3310,9 +5182,21 @@
       }
     ],
     "drops": [
-      "Eikthyrdeer Venison",
-      "Leather",
-      "Horn"
+      {
+        "name": "Eikthyrdeer Venison",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Horn",
+        "amount": "2 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Guardian of the Forest",
@@ -3377,8 +5261,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 920,
-    "order": 9
+    "rarity": 4,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "95"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "2620"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "900"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 38,
@@ -3397,7 +5326,11 @@
       }
     ],
     "drops": [
-      "Leather"
+      {
+        "name": "Leather",
+        "amount": "1 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Travel Companion",
@@ -3462,8 +5395,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 420,
-    "order": 90
+    "rarity": 3,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "6300"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "750"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "150"
+      }
+    ]
   },
   {
     "id": 39,
@@ -3490,8 +5468,16 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Beautiful Flower"
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Beautiful Flower",
+        "amount": "1 - 1",
+        "rate": "5%"
+      }
     ],
     "aura": {
       "name": "Skilled Fingers",
@@ -3556,8 +5542,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1310,
-    "order": 117
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "75"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "65"
+      },
+      {
+        "name": "Price",
+        "value": "1160"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "245"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "350"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 40,
@@ -3589,8 +5620,16 @@
       }
     ],
     "drops": [
-      "Horn",
-      "Leather"
+      {
+        "name": "Horn",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Flameclaw Hunter",
@@ -3655,8 +5694,53 @@
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
     ],
-    "power": 590,
-    "order": 2
+    "rarity": 4,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "95"
+      },
+      {
+        "name": "Defense",
+        "value": "85"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "150"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "4780"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "960"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 41,
@@ -3679,9 +5763,21 @@
       }
     ],
     "drops": [
-      "Honey",
-      "Lettuce Seeds",
-      "Wheat Seeds"
+      {
+        "name": "Honey",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Lettuce Seeds",
+        "amount": "1 - 1",
+        "rate": "20%"
+      },
+      {
+        "name": "Wheat Seeds",
+        "amount": "1 - 1",
+        "rate": "20%"
+      }
     ],
     "aura": {
       "name": "Mysterious Scales",
@@ -3746,8 +5842,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 490,
-    "order": 132
+    "rarity": 4,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "5700"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "550"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 42,
@@ -3770,8 +5911,16 @@
       }
     ],
     "drops": [
-      "Horn",
-      "Flame Organ"
+      {
+        "name": "Horn",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Warm Body",
@@ -3836,8 +5985,53 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 790,
-    "order": 99
+    "rarity": 4,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "85"
+      },
+      {
+        "name": "Defense",
+        "value": "95"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "3520"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "87"
+      }
+    ]
   },
   {
     "id": 43,
@@ -3864,8 +6058,16 @@
       }
     ],
     "drops": [
-      "Raw Dumud",
-      "High Quality Pal Oil"
+      {
+        "name": "Raw Dumud",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Soil Improver",
@@ -3873,8 +6075,53 @@
     },
     "description": "When too relaxed, its reaction time drastically declines.\nEven if it were sliced from head to tail, it probably wouldn't even realize that it should be dead until the next morning.",
     "skills": [],
-    "power": 895,
-    "order": 136
+    "rarity": 4,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "95"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "4690"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "450"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "600"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 44,
@@ -3893,9 +6140,21 @@
       }
     ],
     "drops": [
-      "Bone",
-      "Venom Gland",
-      "Small Pal Soul"
+      {
+        "name": "Bone",
+        "amount": "2 - 4",
+        "rate": "100%"
+      },
+      {
+        "name": "Venom Gland",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Small Pal Soul",
+        "amount": "1 - 1",
+        "rate": "1%"
+      }
     ],
     "aura": {
       "name": "Telepeck",
@@ -3960,8 +6219,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1080,
-    "order": 44
+    "rarity": 3,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "75"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "1840"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "920"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1200"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "85"
+      }
+    ]
   },
   {
     "id": 45,
@@ -3988,8 +6292,16 @@
       }
     ],
     "drops": [
-      "Copper Key",
-      "Silver Key"
+      {
+        "name": "Copper Key",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Silver Key",
+        "amount": "1 - 1",
+        "rate": "1%"
+      }
     ],
     "aura": {
       "name": "Sixth Sense",
@@ -4054,8 +6366,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1120,
-    "order": 57
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "50"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "90"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "1720"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 46,
@@ -4074,7 +6431,11 @@
       }
     ],
     "drops": [
-      "Bone"
+      {
+        "name": "Bone",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Claws Glistening in the Dark",
@@ -4139,8 +6500,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 950,
-    "order": 30
+    "rarity": 3,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "130"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "2400"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 47,
@@ -4159,8 +6565,16 @@
       }
     ],
     "drops": [
-      "Galeclaw Poultry",
-      "Leather"
+      {
+        "name": "Galeclaw Poultry",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Galeclaw Rider",
@@ -4225,8 +6639,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1030,
-    "order": 12
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "75"
+      },
+      {
+        "name": "Defense",
+        "value": "60"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "120"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "85"
+      },
+      {
+        "name": "Price",
+        "value": "2010"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 48,
@@ -4265,8 +6724,16 @@
       }
     ],
     "drops": [
-      "Wheat Seeds",
-      "Arrow"
+      {
+        "name": "Wheat Seeds",
+        "amount": "1 - 2",
+        "rate": "50%"
+      },
+      {
+        "name": "Arrow",
+        "amount": "2 - 4",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Hawk Eye",
@@ -4331,8 +6798,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1020,
-    "order": 52
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "2050"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "750"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 49,
@@ -4359,8 +6871,16 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Bone"
+      {
+        "name": "Leather",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Bone",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Full-power Gorilla Mode",
@@ -4425,8 +6945,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1040,
-    "order": 16
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "110"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "2010"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "550"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "720"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "66"
+      }
+    ]
   },
   {
     "id": 50,
@@ -4469,7 +7034,11 @@
       }
     ],
     "drops": [
-      "Honey"
+      {
+        "name": "Honey",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Worker Bee",
@@ -4534,8 +7103,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1070,
-    "order": 95
+    "rarity": 4,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "1880"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "450"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "125"
+      }
+    ]
   },
   {
     "id": 51,
@@ -4570,8 +7184,16 @@
       }
     ],
     "drops": [
-      "Honey",
-      "Elizabee's Staff"
+      {
+        "name": "Honey",
+        "amount": "5 - 5",
+        "rate": "100%"
+      },
+      {
+        "name": "Elizabee's Staff",
+        "amount": "1 - 1",
+        "rate": "3%"
+      }
     ],
     "aura": {
       "name": "Queen Bee Command",
@@ -4636,8 +7258,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 330,
-    "order": 94
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "6830"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "450"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "150"
+      }
+    ]
   },
   {
     "id": 52,
@@ -4656,7 +7323,11 @@
       }
     ],
     "drops": [
-      "High Quality Pal Oil"
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "1 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Plump Body",
@@ -4721,8 +7392,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 510,
-    "order": 131
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "5510"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "32"
+      }
+    ]
   },
   {
     "id": 53,
@@ -4745,7 +7461,11 @@
       }
     ],
     "drops": [
-      "Wool"
+      {
+        "name": "Wool",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Fluffy",
@@ -4810,8 +7530,53 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 1300,
-    "order": 114
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "60"
+      },
+      {
+        "name": "Defense",
+        "value": "60"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "60"
+      },
+      {
+        "name": "Price",
+        "value": "1180"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "250"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "400"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "55"
+      }
+    ]
   },
   {
     "id": 54,
@@ -4834,7 +7599,11 @@
       }
     ],
     "drops": [
-      "Wool"
+      {
+        "name": "Wool",
+        "amount": "3 - 5",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "King of Fluff",
@@ -4899,8 +7668,53 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 410,
-    "order": 115
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "6400"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "500"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "60"
+      }
+    ]
   },
   {
     "id": 55,
@@ -4924,7 +7738,11 @@
       }
     ],
     "drops": [
-      "Leather"
+      {
+        "name": "Leather",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Wriggling Weasel",
@@ -4989,8 +7807,53 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 800,
-    "order": 123
+    "rarity": 4,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "3450"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 56,
@@ -5013,9 +7876,21 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Electric Organ",
-      "Horn"
+      {
+        "name": "Leather",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Horn",
+        "amount": "1 - 1",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Swift Deity",
@@ -5080,8 +7955,53 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 680,
-    "order": 19
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "105"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "110"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "4280"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "720"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1100"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 57,
@@ -5100,8 +8020,16 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Ice Organ"
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Aurora Guide",
@@ -5166,8 +8094,53 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 760,
-    "order": 104
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "105"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "3730"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "750"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "65"
+      }
+    ]
   },
   {
     "id": 58,
@@ -5190,8 +8163,16 @@
       }
     ],
     "drops": [
-      "Flame Organ",
-      "Leather"
+      {
+        "name": "Flame Organ",
+        "amount": "4 - 5",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Red Hare",
@@ -5256,8 +8237,53 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 360,
-    "order": 35
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "110"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "6720"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "850"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1300"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 59,
@@ -5280,10 +8306,26 @@
       }
     ],
     "drops": [
-      "Reindrix Venison",
-      "Leather",
-      "Horn",
-      "Ice Organ"
+      {
+        "name": "Reindrix Venison",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Horn",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Cool Body",
@@ -5348,8 +8390,53 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 880,
-    "order": 76
+    "rarity": 4,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "110"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "85"
+      },
+      {
+        "name": "Price",
+        "value": "2800"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "550"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "35"
+      }
+    ]
   },
   {
     "id": 60,
@@ -5368,7 +8455,11 @@
       }
     ],
     "drops": [
-      "Electric Organ"
+      {
+        "name": "Electric Organ",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Jumping Force",
@@ -5433,8 +8524,53 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 740,
-    "order": 100
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "3880"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1150"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "110"
+      }
+    ]
   },
   {
     "id": 61,
@@ -5453,8 +8589,16 @@
       }
     ],
     "drops": [
-      "Flame Organ",
-      "Leather"
+      {
+        "name": "Flame Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Clear Mind",
@@ -5519,8 +8663,53 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 830,
-    "order": 56
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "115"
+      },
+      {
+        "name": "Price",
+        "value": "3170"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "110"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "900"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 62,
@@ -5547,7 +8736,11 @@
       }
     ],
     "drops": [
-      "Electric Organ"
+      {
+        "name": "Electric Organ",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Lady of Lightning",
@@ -5612,8 +8805,53 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 1210,
-    "order": 24
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "110"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "1390"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "120"
+      }
+    ]
   },
   {
     "id": 63,
@@ -5640,7 +8878,11 @@
       }
     ],
     "drops": [
-      "Paldium Fragment"
+      {
+        "name": "Paldium Fragment",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Antigravity",
@@ -5705,8 +8947,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 1110,
-    "order": 22
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "1760"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "500"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "650"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 64,
@@ -5730,7 +9017,11 @@
       }
     ],
     "drops": [
-      "Wheat Seeds"
+      {
+        "name": "Wheat Seeds",
+        "amount": "1 - 2",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Fragrant Dragon",
@@ -5795,8 +9086,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 820,
-    "order": 63
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "90"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "85"
+      },
+      {
+        "name": "Price",
+        "value": "3240"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "150"
+      },
+      {
+        "name": "Running Speed",
+        "value": "550"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 65,
@@ -5815,7 +9151,11 @@
       }
     ],
     "drops": [
-      "Pal Fluids"
+      {
+        "name": "Pal Fluids",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Swift Swimmer",
@@ -5880,8 +9220,53 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 560,
-    "order": 42
+    "rarity": 4,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "5050"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "500"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "650"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 66,
@@ -5904,8 +9289,16 @@
       }
     ],
     "drops": [
-      "Bone",
-      "Small Pal Soul"
+      {
+        "name": "Bone",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Small Pal Soul",
+        "amount": "1 - 1",
+        "rate": "15%"
+      }
     ],
     "aura": {
       "name": "Messenger of Death",
@@ -5970,8 +9363,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1150,
-    "order": 51
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "75"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "50"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "1570"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 67,
@@ -5990,8 +9428,16 @@
       }
     ],
     "drops": [
-      "Ore",
-      "High Quality Pal Oil"
+      {
+        "name": "Ore",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Drill Crusher",
@@ -6056,8 +9502,53 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 850,
-    "order": 11
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "120"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "2980"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "300"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "420"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "75"
+      }
+    ]
   },
   {
     "id": 68,
@@ -6084,8 +9575,16 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Small Pal Soul"
+      {
+        "name": "Leather",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Small Pal Soul",
+        "amount": "1 - 1",
+        "rate": "1%"
+      }
     ],
     "aura": {
       "name": "Ultrasonic Sensor",
@@ -6150,8 +9649,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 750,
-    "order": 96
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "95"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "3810"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 69,
@@ -6182,10 +9726,31 @@
       }
     ],
     "drops": [
-      "Mushroom",
-      "Cake",
-      "Suspicious Juice",
-      "Strange Juice"
+      {
+        "name": "Mushroom",
+        "amount": "2 - 4",
+        "rate": "100%"
+      },
+      {
+        "name": "Cake",
+        "amount": "1 - 1",
+        "rate": "1%"
+      },
+      {
+        "name": "Suspicious Juice",
+        "amount": "1 - 1",
+        "rate": "1%"
+      },
+      {
+        "name": "Strange Juice",
+        "amount": "1 - 1",
+        "rate": "1%"
+      },
+      {
+        "name": "Memory Wiping Medicine",
+        "amount": "1 - 1",
+        "rate": "1%"
+      }
     ],
     "aura": {
       "name": "Heart Drain",
@@ -6250,8 +9815,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 940,
-    "order": 81
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "2450"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "140"
+      },
+      {
+        "name": "Running Speed",
+        "value": "750"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "850"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "90"
+      }
+    ]
   },
   {
     "id": 70,
@@ -6282,8 +9892,16 @@
       }
     ],
     "drops": [
-      "Flame Organ",
-      "High Quality Pal Oil"
+      {
+        "name": "Flame Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Magma Tears",
@@ -6348,8 +9966,53 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 1405,
-    "order": 137
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "60"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "2500"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "250"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "375"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "65"
+      }
+    ]
   },
   {
     "id": 71,
@@ -6373,9 +10036,21 @@
       }
     ],
     "drops": [
-      "Bone",
-      "Ruby",
-      "Gold Coin"
+      {
+        "name": "Bone",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Ruby",
+        "amount": "1 - 2",
+        "rate": "1%"
+      },
+      {
+        "name": "Gold Coin",
+        "amount": "10 - 40",
+        "rate": "10%"
+      }
     ],
     "aura": {
       "name": "Aerial Marauder",
@@ -6440,8 +10115,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 660,
-    "order": 60
+    "rarity": 4,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "115"
+      },
+      {
+        "name": "Price",
+        "value": "4360"
+      },
+      {
+        "name": "Stamina",
+        "value": "150"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "850"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 72,
@@ -6476,8 +10196,16 @@
       }
     ],
     "drops": [
-      "Bone",
-      "Ingot"
+      {
+        "name": "Bone",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Ingot",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Brandish Blade",
@@ -6542,8 +10270,53 @@
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
     ],
-    "power": 640,
-    "order": 127
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "125"
+      },
+      {
+        "name": "Price",
+        "value": "4520"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "900"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 73,
@@ -6570,7 +10343,11 @@
       }
     ],
     "drops": [
-      "Electric Organ"
+      {
+        "name": "Electric Organ",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Thunderous",
@@ -6635,8 +10412,53 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 220,
-    "order": 118
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "105"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "115"
+      },
+      {
+        "name": "Price",
+        "value": "7490"
+      },
+      {
+        "name": "Stamina",
+        "value": "160"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "750"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1200"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 74,
@@ -6659,7 +10481,11 @@
       }
     ],
     "drops": [
-      "Flame Organ"
+      {
+        "name": "Flame Organ",
+        "amount": "5 - 7",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Flame Wing",
@@ -6724,8 +10550,53 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 380,
-    "order": 126
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "95"
+      },
+      {
+        "name": "Defense",
+        "value": "120"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "6720"
+      },
+      {
+        "name": "Stamina",
+        "value": "150"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "800"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1300"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 75,
@@ -6752,9 +10623,21 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Katress Hair",
-      "High Grade Technical Manual"
+      {
+        "name": "Leather",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Katress Hair",
+        "amount": "1 - 1",
+        "rate": "50%"
+      },
+      {
+        "name": "High Grade Technical Manual",
+        "amount": "1 - 1",
+        "rate": "1%"
+      }
     ],
     "aura": {
       "name": "Grimoire Collector",
@@ -6819,8 +10702,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 700,
-    "order": 116
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "4120"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "440"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "620"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 76,
@@ -6847,8 +10775,16 @@
       }
     ],
     "drops": [
-      "Flame Organ",
-      "High Grade Technical Manual"
+      {
+        "name": "Flame Organ",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "High Grade Technical Manual",
+        "amount": "1 - 1",
+        "rate": "1%"
+      }
     ],
     "aura": {
       "name": "Lord Fox",
@@ -6913,8 +10849,53 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 1160,
-    "order": 80
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "50"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "110"
+      },
+      {
+        "name": "Price",
+        "value": "1540"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "120"
+      },
+      {
+        "name": "Running Speed",
+        "value": "440"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "620"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 77,
@@ -6949,8 +10930,16 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Bone"
+      {
+        "name": "Leather",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Bone",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Grassland Speedster",
@@ -7015,8 +11004,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 990,
-    "order": 103
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "115"
+      },
+      {
+        "name": "Price",
+        "value": "2200"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "500"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 78,
@@ -7051,8 +11085,16 @@
       }
     ],
     "drops": [
-      "Low Grade Medical Supplies",
-      "Tomato Seeds"
+      {
+        "name": "Low Grade Medical Supplies",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Tomato Seeds",
+        "amount": "1 - 1",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Purification of Gaia",
@@ -7117,8 +11159,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1050,
-    "order": 89
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "120"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "1960"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 79,
@@ -7145,8 +11232,16 @@
       }
     ],
     "drops": [
-      "High Quality Cloth",
-      "Ice Organ"
+      {
+        "name": "High Quality Cloth",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Silk Maker",
@@ -7211,8 +11306,53 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 450,
-    "order": 78
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "90"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "5900"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "90"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 80,
@@ -7231,7 +11371,11 @@
       }
     ],
     "drops": [
-      "High Quality Pal Oil"
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Amicable Holy Dragon",
@@ -7296,8 +11440,53 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 540,
-    "order": 37
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "5230"
+      },
+      {
+        "name": "Stamina",
+        "value": "130"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "630"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "83"
+      }
+    ]
   },
   {
     "id": 81,
@@ -7316,8 +11505,16 @@
       }
     ],
     "drops": [
-      "Raw Kelpsea",
-      "Pal Fluids"
+      {
+        "name": "Raw Kelpsea",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Pal Fluids",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Aqua Spout",
@@ -7382,8 +11579,53 @@
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
     ],
-    "power": 1260,
-    "order": 83
+    "rarity": 1,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1260"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "900"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 82,
@@ -7403,8 +11645,11 @@
       }
     ],
     "drops": [
-      "Cloth",
-      "Precious Dragon Stone"
+      {
+        "name": "Cloth",
+        "amount": "1 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Waterwing Dance",
@@ -7469,8 +11714,53 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 500,
-    "order": 45
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "5600"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "75"
+      }
+    ]
   },
   {
     "id": 83,
@@ -7497,7 +11787,11 @@
       }
     ],
     "drops": [
-      "Ice Organ"
+      {
+        "name": "Ice Organ",
+        "amount": "1 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Dragon Hunter",
@@ -7562,8 +11856,53 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 130,
-    "order": 40
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "110"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "140"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "8440"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "720"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "900"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 84,
@@ -7586,7 +11925,11 @@
       }
     ],
     "drops": [
-      "Flame Organ"
+      {
+        "name": "Flame Organ",
+        "amount": "3 - 5",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Hellflame Lion",
@@ -7651,8 +11994,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 710,
-    "order": 108
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "105"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "110"
+      },
+      {
+        "name": "Price",
+        "value": "4040"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "750"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "900"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "90"
+      }
+    ]
   },
   {
     "id": 85,
@@ -7676,8 +12064,16 @@
       }
     ],
     "drops": [
-      "High Quality Pal Oil",
-      "Ruby"
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "1 - 4",
+        "rate": "100%"
+      },
+      {
+        "name": "Ruby",
+        "amount": "1 - 1",
+        "rate": "5%"
+      }
     ],
     "aura": {
       "name": "Hungry Missile",
@@ -7742,8 +12138,53 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 280,
-    "order": 54
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "110"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "10240"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "650"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "40"
+      }
+    ]
   },
   {
     "id": 86,
@@ -7762,8 +12203,16 @@
       }
     ],
     "drops": [
-      "Broncherry Meat",
-      "Tomato Seeds"
+      {
+        "name": "Broncherry Meat",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Tomato Seeds",
+        "amount": "1 - 2",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Overaffectionate",
@@ -7828,8 +12277,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 860,
-    "order": 71
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "2920"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "120"
+      },
+      {
+        "name": "Running Speed",
+        "value": "350"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "500"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 87,
@@ -7864,7 +12358,11 @@
       }
     ],
     "drops": [
-      "Beautiful Flower"
+      {
+        "name": "Beautiful Flower",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Blessing of the Flower Spirit",
@@ -7929,8 +12427,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 780,
-    "order": 130
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "3590"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "550"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 88,
@@ -7954,7 +12497,11 @@
       }
     ],
     "drops": [
-      "Flame Organ"
+      {
+        "name": "Flame Organ",
+        "amount": "5 - 7",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Ore-loving Beast",
@@ -8019,8 +12566,53 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 320,
-    "order": 49
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "120"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "6940"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "390"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 89,
@@ -8039,7 +12631,11 @@
       }
     ],
     "drops": [
-      "Wool"
+      {
+        "name": "Wool",
+        "amount": "5 - 5",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "King of Muscles",
@@ -8104,8 +12700,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 470,
-    "order": 110
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "85"
+      },
+      {
+        "name": "Price",
+        "value": "5800"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "500"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 90,
@@ -8132,9 +12773,21 @@
       }
     ],
     "drops": [
-      "High Quality Pal Oil",
-      "Leather",
-      "Mammorest Meat"
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "5 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "5 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Mammorest Meat",
+        "amount": "2 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Gaia Crusher",
@@ -8199,8 +12852,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 300,
-    "order": 68
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "150"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "85"
+      },
+      {
+        "name": "Price",
+        "value": "9450"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "30"
+      },
+      {
+        "name": "Running Speed",
+        "value": "430"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "600"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 91,
@@ -8231,8 +12929,16 @@
       }
     ],
     "drops": [
-      "Ice Organ",
-      "Beautiful Flower"
+      {
+        "name": "Ice Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Beautiful Flower",
+        "amount": "1 - 1",
+        "rate": "20%"
+      }
     ],
     "aura": {
       "name": "Guardian of the Snowy Mountain",
@@ -8297,8 +13003,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 460,
-    "order": 87
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "140"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "5900"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "365"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 92,
@@ -8330,7 +13081,11 @@
       }
     ],
     "drops": [
-      "Honey"
+      {
+        "name": "Honey",
+        "amount": "3 - 4",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Hard Armor",
@@ -8395,8 +13150,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 340,
-    "order": 119
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Defense",
+        "value": "120"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "6830"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "500"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "600"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "55"
+      }
+    ]
   },
   {
     "id": 93,
@@ -8415,8 +13215,16 @@
       }
     ],
     "drops": [
-      "Leather",
-      "Horn"
+      {
+        "name": "Leather",
+        "amount": "3 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Horn",
+        "amount": "2 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Wind and Clouds",
@@ -8481,8 +13289,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 980,
-    "order": 48
+    "rarity": 3,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "110"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "110"
+      },
+      {
+        "name": "Price",
+        "value": "2250"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "750"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1050"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "85"
+      }
+    ]
   },
   {
     "id": 94,
@@ -8501,8 +13354,16 @@
       }
     ],
     "drops": [
-      "Cloth",
-      "Small Pal Soul"
+      {
+        "name": "Cloth",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Small Pal Soul",
+        "amount": "1 - 1",
+        "rate": "3%"
+      }
     ],
     "aura": {
       "name": "Life Steal",
@@ -8567,8 +13428,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 1010,
-    "order": 70
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "110"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "2100"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "110"
+      },
+      {
+        "name": "Running Speed",
+        "value": "550"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "60"
+      }
+    ]
   },
   {
     "id": 95,
@@ -8599,7 +13505,11 @@
       }
     ],
     "drops": [
-      "High Quality Pal Oil"
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "3 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Sky Dragon's Affection",
@@ -8664,8 +13574,53 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 350,
-    "order": 124
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "105"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "6830"
+      },
+      {
+        "name": "Stamina",
+        "value": "220"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "800"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "950"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "120"
+      }
+    ]
   },
   {
     "id": 96,
@@ -8688,8 +13643,16 @@
       }
     ],
     "drops": [
-      "Coal",
-      "Flame Organ"
+      {
+        "name": "Coal",
+        "amount": "10 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "10 - 10",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Magma Kaiser",
@@ -8754,8 +13717,53 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 10,
-    "order": 74
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "120"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "150"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "125"
+      },
+      {
+        "name": "Price",
+        "value": "10520"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "50"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "900"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "150"
+      }
+    ]
   },
   {
     "id": 97,
@@ -8774,8 +13782,16 @@
       }
     ],
     "drops": [
-      "Venom Gland",
-      "Medium Pal Soul"
+      {
+        "name": "Venom Gland",
+        "amount": "1 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Medium Pal Soul",
+        "amount": "1 - 1",
+        "rate": "3%"
+      }
     ],
     "aura": {
       "name": "Wings of Death",
@@ -8840,8 +13856,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 190,
-    "order": 125
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "125"
+      },
+      {
+        "name": "Price",
+        "value": "7840"
+      },
+      {
+        "name": "Stamina",
+        "value": "170"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1100"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 98,
@@ -8865,8 +13926,16 @@
       }
     ],
     "drops": [
-      "Pal Metal Ingot",
-      "Pure Quartz"
+      {
+        "name": "Pal Metal Ingot",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Pure Quartz",
+        "amount": "3 - 5",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Black Anklyosaur",
@@ -8931,8 +14000,53 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 150,
-    "order": 102
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "125"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "125"
+      },
+      {
+        "name": "Price",
+        "value": "8200"
+      },
+      {
+        "name": "Stamina",
+        "value": "300"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 99,
@@ -8956,8 +14070,16 @@
       }
     ],
     "drops": [
-      "Coal",
-      "Venom Gland"
+      {
+        "name": "Coal",
+        "amount": "10 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Venom Gland",
+        "amount": "5 - 10",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Steel Scorpion",
@@ -9022,8 +14144,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 260,
-    "order": 133
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "130"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "7050"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "1000"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1200"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 100,
@@ -9050,9 +14217,21 @@
       }
     ],
     "drops": [
-      "Bone",
-      "Large Pal Soul",
-      "Innovative Technical Manual"
+      {
+        "name": "Bone",
+        "amount": "3 - 5",
+        "rate": "100%"
+      },
+      {
+        "name": "Large Pal Soul",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Innovative Technical Manual",
+        "amount": "1 - 1",
+        "rate": "5%"
+      }
     ],
     "aura": {
       "name": "Guardian of the Desert",
@@ -9117,8 +14296,53 @@
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
     ],
-    "power": 570,
-    "order": 1
+    "rarity": 10,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "130"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "130"
+      },
+      {
+        "name": "Price",
+        "value": "4960"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "800"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1000"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 101,
@@ -9138,7 +14362,11 @@
       }
     ],
     "drops": [
-      "Pal Fluids"
+      {
+        "name": "Pal Fluids",
+        "amount": "2 - 4",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Stormbringer Sea Dragon",
@@ -9203,8 +14431,53 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 310,
-    "order": 28
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "130"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "150"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "120"
+      },
+      {
+        "name": "Price",
+        "value": "9320"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "525"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 102,
@@ -9223,7 +14496,11 @@
       }
     ],
     "drops": [
-      "Flame Organ"
+      {
+        "name": "Flame Organ",
+        "amount": "5 - 10",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Wings of Flame",
@@ -9288,8 +14565,53 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 50,
-    "order": 33
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Defense",
+        "value": "105"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "9840"
+      },
+      {
+        "name": "Stamina",
+        "value": "350"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "850"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1100"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 103,
@@ -9320,8 +14642,16 @@
       }
     ],
     "drops": [
-      "Electric Organ",
-      "Leather"
+      {
+        "name": "Electric Organ",
+        "amount": "2 - 4",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Yellow Tank",
@@ -9386,8 +14716,53 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 200,
-    "order": 13
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "105"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "120"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "7720"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "470"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 104,
@@ -9418,9 +14793,21 @@
       }
     ],
     "drops": [
-      "Low Grade Medical Supplies",
-      "Beautiful Flower",
-      "Innovative Technical Manual"
+      {
+        "name": "Low Grade Medical Supplies",
+        "amount": "3 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Beautiful Flower",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Innovative Technical Manual",
+        "amount": "1 - 1",
+        "rate": "10%"
+      }
     ],
     "aura": {
       "name": "Harvest Goddess",
@@ -9485,8 +14872,53 @@
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 250,
-    "order": 92
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "105"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "110"
+      },
+      {
+        "name": "Price",
+        "value": "7160"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "450"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "60"
+      }
+    ]
   },
   {
     "id": 105,
@@ -9509,7 +14941,11 @@
       }
     ],
     "drops": [
-      "Flame Organ"
+      {
+        "name": "Flame Organ",
+        "amount": "1 - 4",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Scorching Predator",
@@ -9574,8 +15010,53 @@
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
     ],
-    "power": 370,
-    "order": 73
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "110"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "6720"
+      },
+      {
+        "name": "Stamina",
+        "value": "230"
+      },
+      {
+        "name": "Support",
+        "value": "90"
+      },
+      {
+        "name": "Running Speed",
+        "value": "1000"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1400"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "150"
+      }
+    ]
   },
   {
     "id": 106,
@@ -9603,7 +15084,11 @@
       }
     ],
     "drops": [
-      "Electric Organ"
+      {
+        "name": "Electric Organ",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Ferocious Thunder Dragon",
@@ -9668,8 +15153,53 @@
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
     ],
-    "power": 140,
-    "order": 134
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "130"
+      },
+      {
+        "name": "Price",
+        "value": "8320"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "900"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1200"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 107,
@@ -9688,9 +15218,21 @@
       }
     ],
     "drops": [
-      "Pal Metal Ingot",
-      "Carbon Fiber",
-      "Innovative Technical Manual"
+      {
+        "name": "Pal Metal Ingot",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Carbon Fiber",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Innovative Technical Manual",
+        "amount": "1 - 1",
+        "rate": "10%"
+      }
     ],
     "aura": {
       "name": "Modified DNA",
@@ -9755,8 +15297,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 60,
-    "order": 77
+    "rarity": 10,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Defense",
+        "value": "140"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "130"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "120"
+      },
+      {
+        "name": "Price",
+        "value": "9060"
+      },
+      {
+        "name": "Stamina",
+        "value": "250"
+      },
+      {
+        "name": "Support",
+        "value": "90"
+      },
+      {
+        "name": "Running Speed",
+        "value": "850"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1200"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 108,
@@ -9779,8 +15366,16 @@
       }
     ],
     "drops": [
-      "Pal Metal Ingot",
-      "Diamond"
+      {
+        "name": "Pal Metal Ingot",
+        "amount": "10 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Diamond",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Holy Knight of the Firmament",
@@ -9845,8 +15440,53 @@
         "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
       }
     ],
-    "power": 80,
-    "order": 120
+    "rarity": 20,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "130"
+      },
+      {
+        "name": "Defense",
+        "value": "145"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "110"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "120"
+      },
+      {
+        "name": "Price",
+        "value": "8810"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "800"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1400"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 109,
@@ -9869,8 +15509,16 @@
       }
     ],
     "drops": [
-      "Pal Metal Ingot",
-      "Large Pal Soul"
+      {
+        "name": "Pal Metal Ingot",
+        "amount": "10 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Large Pal Soul",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Dark Knight of the Abyss",
@@ -9935,8 +15583,53 @@
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
     ],
-    "power": 70,
-    "order": 129
+    "rarity": 20,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "130"
+      },
+      {
+        "name": "Defense",
+        "value": "120"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "145"
+      },
+      {
+        "name": "Price",
+        "value": "8930"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "900"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1600"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 110,
@@ -9955,8 +15648,16 @@
       }
     ],
     "drops": [
-      "Ice Organ",
-      "Diamond"
+      {
+        "name": "Ice Organ",
+        "amount": "10 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Diamond",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Ice Steed",
@@ -10021,8 +15722,53 @@
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
     ],
-    "power": 120,
-    "order": 66
+    "rarity": 20,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "140"
+      },
+      {
+        "name": "Defense",
+        "value": "120"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "140"
+      },
+      {
+        "name": "Price",
+        "value": "8440"
+      },
+      {
+        "name": "Stamina",
+        "value": "300"
+      },
+      {
+        "name": "Support",
+        "value": "70"
+      },
+      {
+        "name": "Running Speed",
+        "value": "1000"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1500"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "120"
+      }
+    ]
   },
   {
     "id": 111,
@@ -10041,10 +15787,26 @@
       }
     ],
     "drops": [
-      "Pure Quartz",
-      "Polymer",
-      "Carbon Fiber",
-      "Diamond"
+      {
+        "name": "Pure Quartz",
+        "amount": "10 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Polymer",
+        "amount": "5 - 5",
+        "rate": "100%"
+      },
+      {
+        "name": "Carbon Fiber",
+        "amount": "5 - 5",
+        "rate": "100%"
+      },
+      {
+        "name": "Diamond",
+        "amount": "1 - 1",
+        "rate": "30%"
+      }
     ],
     "aura": {
       "name": "Aerial Missile",
@@ -10109,8 +15871,53 @@
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
     ],
-    "power": 90,
-    "order": 105
+    "rarity": 20,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "110"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "140"
+      },
+      {
+        "name": "Price",
+        "value": "8680"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "1700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "3300"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "600"
+      }
+    ]
   },
   {
     "id": 112,
@@ -10193,9 +16000,7 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ],
-    "power": 1360,
-    "order": 18
+    ]
   },
   {
     "id": 113,
@@ -10283,9 +16088,7 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ],
-    "power": 1440,
-    "order": 5
+    ]
   },
   {
     "id": 114,
@@ -10376,9 +16179,7 @@
         "power": 120,
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
-    ],
-    "power": 1100,
-    "order": 26
+    ]
   },
   {
     "id": 115,
@@ -10474,9 +16275,7 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ],
-    "power": 1422,
-    "order": 32
+    ]
   },
   {
     "id": 116,
@@ -10573,9 +16372,7 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ],
-    "power": 390,
-    "order": 98
+    ]
   },
   {
     "id": 117,
@@ -10660,9 +16457,7 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ],
-    "power": 900,
-    "order": 10
+    ]
   },
   {
     "id": 118,
@@ -10754,9 +16549,7 @@
         "power": 120,
         "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
       }
-    ],
-    "power": 580,
-    "order": 3
+    ]
   },
   {
     "id": 119,
@@ -10852,9 +16645,7 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ],
-    "power": 1140,
-    "order": 58
+    ]
   },
   {
     "id": 120,
@@ -10955,9 +16746,7 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ],
-    "power": 1000,
-    "order": 53
+    ]
   },
   {
     "id": 121,
@@ -11046,9 +16835,7 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ],
-    "power": 240,
-    "order": 36
+    ]
   },
   {
     "id": 122,
@@ -11136,9 +16923,7 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ],
-    "power": 810,
-    "order": 64
+    ]
   },
   {
     "id": 123,
@@ -11221,9 +17006,7 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ],
-    "power": 550,
-    "order": 43
+    ]
   },
   {
     "id": 124,
@@ -11313,9 +17096,7 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ],
-    "power": 620,
-    "order": 61
+    ]
   },
   {
     "id": 125,
@@ -11403,9 +17184,7 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ],
-    "power": 530,
-    "order": 38
+    ]
   },
   {
     "id": 126,
@@ -11489,9 +17268,7 @@
         "power": 150,
         "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
       }
-    ],
-    "power": 1270,
-    "order": 84
+    ]
   },
   {
     "id": 127,
@@ -11579,9 +17356,7 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ],
-    "power": 670,
-    "order": 109
+    ]
   },
   {
     "id": 128,
@@ -11671,9 +17446,7 @@
         "power": 150,
         "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
       }
-    ],
-    "power": 270,
-    "order": 55
+    ]
   },
   {
     "id": 129,
@@ -11758,9 +17531,7 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ],
-    "power": 840,
-    "order": 72
+    ]
   },
   {
     "id": 130,
@@ -11848,9 +17619,7 @@
         "power": 150,
         "description": "Generates a sharp rock spear under an enemy.\n"
       }
-    ],
-    "power": 230,
-    "order": 50
+    ]
   },
   {
     "id": 131,
@@ -11938,9 +17707,7 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ],
-    "power": 440,
-    "order": 111
+    ]
   },
   {
     "id": 132,
@@ -12033,9 +17800,7 @@
         "power": 130,
         "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
       }
-    ],
-    "power": 290,
-    "order": 69
+    ]
   },
   {
     "id": 133,
@@ -12132,9 +17897,7 @@
         "power": 150,
         "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
       }
-    ],
-    "power": 480,
-    "order": 88
+    ]
   },
   {
     "id": 134,
@@ -12219,9 +17982,7 @@
         "power": 150,
         "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
       }
-    ],
-    "power": 315,
-    "order": 29
+    ]
   },
   {
     "id": 135,
@@ -12304,9 +18065,7 @@
         "power": 150,
         "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
       }
-    ],
-    "power": 30,
-    "order": 34
+    ]
   },
   {
     "id": 136,
@@ -12399,9 +18158,7 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ],
-    "power": 210,
-    "order": 93
+    ]
   },
   {
     "id": 137,
@@ -12485,8 +18242,6 @@
         "power": 150,
         "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
       }
-    ],
-    "power": 100,
-    "order": 67
+    ]
   }
 ]
