@@ -16145,7 +16145,7 @@
     "id": 112,
     "key": "012B",
     "image": "/public/images/012B.png",
-    "name": "Jolthog Cryst",
+    "name": "Jolthog-Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Jolthog_Cryst",
     "types": [
       "ice"
@@ -16158,7 +16158,11 @@
       }
     ],
     "drops": [
-      "Ice Organ"
+      {
+        "name": "Ice Organ",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Cold Bomb",
@@ -16224,13 +16228,60 @@
       }
     ],
     "power": 1360,
-    "order": 18
+    "order": 18,
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "75"
+      },
+      {
+        "name": "Price",
+        "value": "1070"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "30"
+      }
+    ]
   },
   {
     "id": 113,
     "key": "024B",
     "image": "/public/images/024B.png",
-    "name": "Mau Cryst",
+    "name": "Mau-Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Mau_Cryst",
     "types": [
       "ice"
@@ -16247,8 +16298,16 @@
       }
     ],
     "drops": [
-      "Ice Organ",
-      "Sapphire"
+      {
+        "name": "Ice Organ",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Sapphire",
+        "amount": "1 - 1",
+        "rate": "1%"
+      }
     ],
     "aura": {
       "name": "Gold Digger",
@@ -16314,13 +16373,60 @@
       }
     ],
     "power": 1440,
-    "order": 5
+    "order": 5,
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "65"
+      },
+      {
+        "name": "Price",
+        "value": "1010"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "475"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "52"
+      }
+    ]
   },
   {
     "id": 114,
     "key": "031B",
     "image": "/public/images/031B.png",
-    "name": "Gobfin Ignis",
+    "name": "Gobfin-Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Gobfin_Ignis",
     "types": [
       "fire"
@@ -16341,7 +16447,11 @@
       }
     ],
     "drops": [
-      "Flame Organ"
+      {
+        "name": "Flame Organ",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Angry Shark",
@@ -16407,13 +16517,60 @@
       }
     ],
     "power": 1100,
-    "order": 26
+    "order": 26,
+    "rarity": 3,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "75"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "90"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "1800"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "500"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 115,
     "key": "032B",
     "image": "/public/images/032B.png",
-    "name": "Hangyu Cryst",
+    "name": "Hangyu-Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Hangyu_Cryst",
     "types": [
       "ice"
@@ -16438,8 +16595,16 @@
       }
     ],
     "drops": [
-      "Fiber",
-      "Ice Organ"
+      {
+        "name": "Fiber",
+        "amount": "5 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Winter Trapeze",
@@ -16505,13 +16670,60 @@
       }
     ],
     "power": 1422,
-    "order": 32
+    "order": 32,
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "1020"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 116,
     "key": "033B",
     "image": "/public/images/033B.png",
-    "name": "Mossanda Lux",
+    "name": "Mossanda-Lux",
     "wiki": "https://palworld.fandom.com/wiki/Mossanda_Lux",
     "types": [
       "electric"
@@ -16536,9 +16748,21 @@
       }
     ],
     "drops": [
-      "Mushroom",
-      "Electric Organ",
-      "Leather"
+      {
+        "name": "Mushroom",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Grenadier Panda",
@@ -16604,13 +16828,60 @@
       }
     ],
     "power": 390,
-    "order": 98
+    "order": 98,
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "100"
+      },
+      {
+        "name": "Price",
+        "value": "6610"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "500"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 117,
     "key": "037B",
     "image": "/public/images/037B.png",
-    "name": "Eikthyrdeer Terra",
+    "name": "Eikthyrdeer-Terra",
     "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer_Terra",
     "types": [
       "ground"
@@ -16623,9 +16894,21 @@
       }
     ],
     "drops": [
-      "Eikthyrdeer Venison",
-      "Leather",
-      "Horn"
+      {
+        "name": "Eikthyrdeer Venison",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Horn",
+        "amount": "2 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Guardian of the Golden Forest",
@@ -16691,13 +16974,60 @@
       }
     ],
     "power": 900,
-    "order": 10
+    "order": 10,
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "95"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "2680"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "900"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 118,
     "key": "040B",
     "image": "/public/images/040B.png",
-    "name": "Incineram Noct",
+    "name": "Incineram-Noct",
     "wiki": "https://palworld.fandom.com/wiki/Incineram_Noct",
     "types": [
       "dark"
@@ -16718,8 +17048,16 @@
       }
     ],
     "drops": [
-      "Horn",
-      "Leather"
+      {
+        "name": "Horn",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Darkclaw Hunter",
@@ -16785,13 +17123,60 @@
       }
     ],
     "power": 580,
-    "order": 3
+    "order": 3,
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "95"
+      },
+      {
+        "name": "Defense",
+        "value": "85"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "150"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "4870"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "960"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 119,
     "key": "045B",
     "image": "/public/images/045B.png",
-    "name": "Leezpunk Ignis",
+    "name": "Leezpunk-Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Leezpunk_Ignis",
     "types": [
       "fire"
@@ -16816,8 +17201,16 @@
       }
     ],
     "drops": [
-      "Flame Organ",
-      "Silver Key"
+      {
+        "name": "Flame Organ",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Silver Key",
+        "amount": "1 - 1",
+        "rate": "2%"
+      }
     ],
     "aura": {
       "name": "Sixth Sense",
@@ -16883,13 +17276,60 @@
       }
     ],
     "power": 1140,
-    "order": 58
+    "order": 58,
+    "rarity": 3,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "80"
+      },
+      {
+        "name": "Defense",
+        "value": "50"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "90"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "1640"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "400"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 120,
     "key": "048B",
     "image": "/public/images/048B.png",
-    "name": "Robinquill Terra",
+    "name": "Robinquill-Terra",
     "wiki": "https://palworld.fandom.com/wiki/Robinquill_Terra",
     "types": [
       "grass",
@@ -16919,8 +17359,16 @@
       }
     ],
     "drops": [
-      "Wheat Seeds",
-      "Arrow"
+      {
+        "name": "Wheat Seeds",
+        "amount": "1 - 2",
+        "rate": "50%"
+      },
+      {
+        "name": "Arrow",
+        "amount": "2 - 4",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Hawk Eye",
@@ -16986,13 +17434,60 @@
       }
     ],
     "power": 1000,
-    "order": 53
+    "order": 53,
+    "rarity": 6,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "2150"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "600"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "750"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 121,
     "key": "058B",
     "image": "/public/images/058B.png",
-    "name": "Pyrin Noct",
+    "name": "Pyrin-Noct",
     "wiki": "https://palworld.fandom.com/wiki/Pyrin_Noct",
     "types": [
       "fire",
@@ -17010,8 +17505,16 @@
       }
     ],
     "drops": [
-      "Flame Organ",
-      "Leather"
+      {
+        "name": "Flame Organ",
+        "amount": "4 - 5",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Black Hare",
@@ -17077,13 +17580,60 @@
       }
     ],
     "power": 240,
-    "order": 36
+    "order": 36,
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "100"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "110"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "7270"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "850"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1300"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 122,
     "key": "064B",
     "image": "/public/images/064B.png",
-    "name": "Dinossom Lux",
+    "name": "Dinossom-Lux",
     "wiki": "https://palworld.fandom.com/wiki/Dinossom_Lux",
     "types": [
       "electric",
@@ -17101,7 +17651,11 @@
       }
     ],
     "drops": [
-      "Tomato Seeds"
+      {
+        "name": "Tomato Seeds",
+        "amount": "1 - 2",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Thunder Dragon",
@@ -17167,13 +17721,60 @@
       }
     ],
     "power": 810,
-    "order": 64
+    "order": 64,
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "90"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "3380"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "150"
+      },
+      {
+        "name": "Running Speed",
+        "value": "550"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 123,
     "key": "065B",
     "image": "/public/images/065B.png",
-    "name": "Surfent Terra",
+    "name": "Surfent-Terra",
     "wiki": "https://palworld.fandom.com/wiki/Surfent_Terra",
     "types": [
       "ground"
@@ -17186,7 +17787,11 @@
       }
     ],
     "drops": [
-      "Pal Fluids"
+      {
+        "name": "Pal Fluids",
+        "amount": "1 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Sand Swimmer",
@@ -17252,13 +17857,60 @@
       }
     ],
     "power": 550,
-    "order": 43
+    "order": 43,
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "70"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "90"
+      },
+      {
+        "name": "Price",
+        "value": "5140"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "500"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "650"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 124,
     "key": "071B",
     "image": "/public/images/071B.png",
-    "name": "Vanwyrm Cryst",
+    "name": "Vanwyrm-Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Vanwyrm_Cryst",
     "types": [
       "ice",
@@ -17276,9 +17928,21 @@
       }
     ],
     "drops": [
-      "Bone",
-      "Ice Organ",
-      "Sapphire"
+      {
+        "name": "Bone",
+        "amount": "1 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Sapphire",
+        "amount": "1 - 1",
+        "rate": "2%"
+      }
     ],
     "aura": {
       "name": "Aerial Marauder",
@@ -17344,13 +18008,60 @@
       }
     ],
     "power": 620,
-    "order": 61
+    "order": 61,
+    "rarity": 5,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "90"
+      },
+      {
+        "name": "Defense",
+        "value": "95"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "120"
+      },
+      {
+        "name": "Price",
+        "value": "4610"
+      },
+      {
+        "name": "Stamina",
+        "value": "150"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "850"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 125,
     "key": "080B",
     "image": "/public/images/080B.png",
-    "name": "Elphidran Aqua",
+    "name": "Elphidran-Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Elphidran_Aqua",
     "types": [
       "dragon",
@@ -17368,7 +18079,11 @@
       }
     ],
     "drops": [
-      "High Quality Pal Oil"
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Amicable Water Dragon",
@@ -17434,13 +18149,60 @@
       }
     ],
     "power": 530,
-    "order": 38
+    "order": 38,
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "115"
+      },
+      {
+        "name": "Defense",
+        "value": "95"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "5320"
+      },
+      {
+        "name": "Stamina",
+        "value": "130"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "630"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "83"
+      }
+    ]
   },
   {
     "id": 126,
     "key": "081B",
     "image": "/public/images/081B.png",
-    "name": "Kelpsea Ignis",
+    "name": "Kelpsea-Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Kelpsea_Ignis",
     "types": [
       "fire"
@@ -17453,8 +18215,16 @@
       }
     ],
     "drops": [
-      "Raw Kelpsea",
-      "Flame Organ"
+      {
+        "name": "Raw Kelpsea",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Lava Spout",
@@ -17520,13 +18290,60 @@
       }
     ],
     "power": 1270,
-    "order": 84
+    "order": 84,
+    "rarity": 2,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "70"
+      },
+      {
+        "name": "Defense",
+        "value": "70"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "70"
+      },
+      {
+        "name": "Price",
+        "value": "1240"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "700"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "900"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 127,
     "key": "084B",
     "image": "/public/images/084B.png",
-    "name": "Blazehowl Noct",
+    "name": "Blazehowl-Noct",
     "wiki": "https://palworld.fandom.com/wiki/Blazehowl_Noct",
     "types": [
       "fire",
@@ -17544,7 +18361,11 @@
       }
     ],
     "drops": [
-      "Flame Organ"
+      {
+        "name": "Flame Organ",
+        "amount": "2 - 4",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Darkflame Lion",
@@ -17610,13 +18431,60 @@
       }
     ],
     "power": 670,
-    "order": 109
+    "order": 109,
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "105"
+      },
+      {
+        "name": "Defense",
+        "value": "80"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "115"
+      },
+      {
+        "name": "Price",
+        "value": "4360"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "750"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "900"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "60"
+      }
+    ]
   },
   {
     "id": 128,
     "key": "085B",
     "image": "/public/images/085B.png",
-    "name": "Relaxaurus Lux",
+    "name": "Relaxaurus-Lux",
     "wiki": "https://palworld.fandom.com/wiki/Relaxaurus_Lux",
     "types": [
       "dragon",
@@ -17634,9 +18502,21 @@
       }
     ],
     "drops": [
-      "High Quality Pal Oil",
-      "Electric Organ",
-      "Sapphire"
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "1 - 4",
+        "rate": "100%"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Sapphire",
+        "amount": "1 - 1",
+        "rate": "5%"
+      }
     ],
     "aura": {
       "name": "Missile Party",
@@ -17702,13 +18582,60 @@
       }
     ],
     "power": 270,
-    "order": 55
+    "order": 55,
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "75"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "110"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "110"
+      },
+      {
+        "name": "Price",
+        "value": "10380"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "650"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "800"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "40"
+      }
+    ]
   },
   {
     "id": 129,
     "key": "086B",
     "image": "/public/images/086B.png",
-    "name": "Broncherry Aqua",
+    "name": "Broncherry-Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Broncherry_Aqua",
     "types": [
       "grass",
@@ -17722,8 +18649,16 @@
       }
     ],
     "drops": [
-      "Broncherry Meat",
-      "Lettuce Seeds"
+      {
+        "name": "Broncherry Meat",
+        "amount": "2 - 2",
+        "rate": "100%"
+      },
+      {
+        "name": "Lettuce Seeds",
+        "amount": "1 - 2",
+        "rate": "50%"
+      }
     ],
     "aura": {
       "name": "Overaffectionate",
@@ -17789,13 +18724,60 @@
       }
     ],
     "power": 840,
-    "order": 72
+    "order": 72,
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "80"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "95"
+      },
+      {
+        "name": "Price",
+        "value": "3110"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "120"
+      },
+      {
+        "name": "Running Speed",
+        "value": "350"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "500"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 130,
     "key": "088B",
     "image": "/public/images/088B.png",
-    "name": "Ice Reptyro",
+    "name": "Ice-Reptyro",
     "wiki": "https://palworld.fandom.com/wiki/Ice_Reptyro",
     "types": [
       "ice",
@@ -17813,7 +18795,11 @@
       }
     ],
     "drops": [
-      "Ice Organ"
+      {
+        "name": "Ice Organ",
+        "amount": "3 - 4",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Ice-loving Beast",
@@ -17879,13 +18865,60 @@
       }
     ],
     "power": 230,
-    "order": 50
+    "order": 50,
+    "rarity": 7,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "130"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "7380"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "390"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "50"
+      }
+    ]
   },
   {
     "id": 131,
     "key": "089B",
     "image": "/public/images/089B.png",
-    "name": "Ice Kingpaca",
+    "name": "Ice-Kingpaca",
     "wiki": "https://palworld.fandom.com/wiki/Ice_Kingpaca",
     "types": [
       "ice"
@@ -17902,8 +18935,16 @@
       }
     ],
     "drops": [
-      "Wool",
-      "Ice Organ"
+      {
+        "name": "Wool",
+        "amount": "5 - 5",
+        "rate": "100%"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "3 - 6",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "King of Muscles",
@@ -17969,13 +19010,60 @@
       }
     ],
     "power": 440,
-    "order": 111
+    "order": 111,
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "120"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "85"
+      },
+      {
+        "name": "Price",
+        "value": "6100"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "500"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "80"
+      }
+    ]
   },
   {
     "id": 132,
     "key": "090B",
     "image": "/public/images/090B.png",
-    "name": "Mammorest Cryst",
+    "name": "Mammorest-Cryst",
     "wiki": "https://palworld.fandom.com/wiki/Mammorest_Cryst",
     "types": [
       "ice"
@@ -17996,9 +19084,21 @@
       }
     ],
     "drops": [
-      "High Quality Pal Oil",
-      "Leather",
-      "Mammorest Meat"
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "5 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Leather",
+        "amount": "5 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Mammorest Meat",
+        "amount": "2 - 2",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Ice Crusher",
@@ -18064,13 +19164,60 @@
       }
     ],
     "power": 290,
-    "order": 69
+    "order": 69,
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "150"
+      },
+      {
+        "name": "Defense",
+        "value": "90"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "85"
+      },
+      {
+        "name": "Price",
+        "value": "9580"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "30"
+      },
+      {
+        "name": "Running Speed",
+        "value": "430"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "600"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 133,
     "key": "091B",
     "image": "/public/images/091B.png",
-    "name": "Wumpo Botan",
+    "name": "Wumpo-Botan",
     "wiki": "https://palworld.fandom.com/wiki/Wumpo_Botan",
     "types": [
       "grass"
@@ -18095,9 +19242,21 @@
       }
     ],
     "drops": [
-      "Lettuce Seeds",
-      "Tomato Seeds",
-      "Beautiful Flower"
+      {
+        "name": "Lettuce Seeds",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Tomato Seeds",
+        "amount": "1 - 1",
+        "rate": "100%"
+      },
+      {
+        "name": "Beautiful Flower",
+        "amount": "1 - 1",
+        "rate": "20%"
+      }
     ],
     "aura": {
       "name": "Guardian of the Grassy Fields",
@@ -18163,13 +19322,60 @@
       }
     ],
     "power": 480,
-    "order": 88
+    "order": 88,
+    "rarity": 8,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "140"
+      },
+      {
+        "name": "Defense",
+        "value": "110"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "80"
+      },
+      {
+        "name": "Price",
+        "value": "5700"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "365"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "70"
+      }
+    ]
   },
   {
     "id": 134,
     "key": "101B",
     "image": "/public/images/101B.png",
-    "name": "Jormuntide Ignis",
+    "name": "Jormuntide-Ignis",
     "wiki": "https://palworld.fandom.com/wiki/Jormuntide_Ignis",
     "types": [
       "dragon",
@@ -18183,8 +19389,16 @@
       }
     ],
     "drops": [
-      "High Quality Pal Oil",
-      "Flame Organ"
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "2 - 3",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Stormbringer Lava Dragon",
@@ -18250,13 +19464,60 @@
       }
     ],
     "power": 315,
-    "order": 29
+    "order": 29,
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "130"
+      },
+      {
+        "name": "Defense",
+        "value": "100"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "150"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "130"
+      },
+      {
+        "name": "Price",
+        "value": "9500"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "525"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "700"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 135,
     "key": "102B",
     "image": "/public/images/102B.png",
-    "name": "Suzaku Aqua",
+    "name": "Suzaku-Aqua",
     "wiki": "https://palworld.fandom.com/wiki/Suzaku_Aqua",
     "types": [
       "water"
@@ -18269,7 +19530,11 @@
       }
     ],
     "drops": [
-      "Pal Fluids"
+      {
+        "name": "Pal Fluids",
+        "amount": "5 - 5",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Wings of Water",
@@ -18335,13 +19600,60 @@
       }
     ],
     "power": 30,
-    "order": 34
+    "order": 34,
+    "rarity": 9,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "125"
+      },
+      {
+        "name": "Defense",
+        "value": "105"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "105"
+      },
+      {
+        "name": "Price",
+        "value": "10110"
+      },
+      {
+        "name": "Stamina",
+        "value": "350"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "850"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1100"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "100"
+      }
+    ]
   },
   {
     "id": 136,
     "key": "104B",
     "image": "/public/images/104B.png",
-    "name": "Lyleen Noct",
+    "name": "Lyleen-Noct",
     "wiki": "https://palworld.fandom.com/wiki/Lyleen_Noct",
     "types": [
       "dark"
@@ -18362,9 +19674,21 @@
       }
     ],
     "drops": [
-      "Low Grade Medical Supplies",
-      "Beautiful Flower",
-      "Innovative Technical Manual"
+      {
+        "name": "Low Grade Medical Supplies",
+        "amount": "3 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Beautiful Flower",
+        "amount": "2 - 3",
+        "rate": "100%"
+      },
+      {
+        "name": "Innovative Technical Manual",
+        "amount": "1 - 1",
+        "rate": "10%"
+      }
     ],
     "aura": {
       "name": "Goddess of the Tranquil Light",
@@ -18430,13 +19754,60 @@
       }
     ],
     "power": 210,
-    "order": 93
+    "order": 93,
+    "rarity": 10,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "110"
+      },
+      {
+        "name": "Defense",
+        "value": "115"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "110"
+      },
+      {
+        "name": "Price",
+        "value": "7610"
+      },
+      {
+        "name": "Stamina",
+        "value": "100"
+      },
+      {
+        "name": "Support",
+        "value": "100"
+      },
+      {
+        "name": "Running Speed",
+        "value": "450"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "550"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "60"
+      }
+    ]
   },
   {
     "id": 137,
     "key": "110B",
     "image": "/public/images/110B.png",
-    "name": "Frostallion Noct",
+    "name": "Frostallion-Noct",
     "wiki": "https://palworld.fandom.com/wiki/Frostallion_Noct",
     "types": [
       "dark"
@@ -18449,8 +19820,16 @@
       }
     ],
     "drops": [
-      "Pure Quartz",
-      "Large Pal Soul"
+      {
+        "name": "Pure Quartz",
+        "amount": "10 - 10",
+        "rate": "100%"
+      },
+      {
+        "name": "Large Pal Soul",
+        "amount": "1 - 1",
+        "rate": "100%"
+      }
     ],
     "aura": {
       "name": "Black Steed",
@@ -18516,6 +19895,53 @@
       }
     ],
     "power": 100,
-    "order": 67
+    "order": 67,
+    "rarity": 20,
+    "stats": [
+      {
+        "name": "HP",
+        "value": "140"
+      },
+      {
+        "name": "Defense",
+        "value": "135"
+      },
+      {
+        "name": "Crafting Speed",
+        "value": "100"
+      },
+      {
+        "name": "Melee Attack",
+        "value": "100"
+      },
+      {
+        "name": "Shot Attack",
+        "value": "140"
+      },
+      {
+        "name": "Price",
+        "value": "8560"
+      },
+      {
+        "name": "Stamina",
+        "value": "300"
+      },
+      {
+        "name": "Support",
+        "value": "70"
+      },
+      {
+        "name": "Running Speed",
+        "value": "1000"
+      },
+      {
+        "name": "Ride Sprint Speed",
+        "value": "1500"
+      },
+      {
+        "name": "Slow Walk Speed",
+        "value": "120"
+      }
+    ]
   }
 ]
