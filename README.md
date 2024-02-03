@@ -35,6 +35,9 @@
 ## :rocket: Info
 
 This is the Palworld API, it's a simple API to get all Palworld Paldex data.
+
+Share a website constructed using this API： 🔗 palworld-breeding-calculator.com
+
 This is what final data looks like:
 
 ```json
