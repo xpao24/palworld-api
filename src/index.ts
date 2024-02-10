@@ -3,6 +3,7 @@ import { Elysia } from "elysia";
 import { queryIndexPals } from "./schemas";
 import { IndexPalsUseCase } from "./useCases";
 
+const port = process.env.PORT || 8080;
 const app = new Elysia()
   .use(staticPlugin())
   .get(
@@ -13,7 +14,7 @@ const app = new Elysia()
       query: queryIndexPals,
     }
   )
-  .listen(8080);
+  .listen(port);
 
 
 console.log(`🦊 Elysia is running at on port ${app.server?.port}...`);
