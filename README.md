@@ -36,7 +36,9 @@
 
 This is the Palworld API, it's a simple API to get all Palworld Paldex data.
 
-Share a website constructed using this API： 🔗 https://palworld-breeding-calculator.com
+Share a palworld breeding calculator constructed using this API： 🔗 [Palworld Breeding Calculator](https://palworld-breeding-calculator.com)
+
+Share a palworld breeding tree constructed using this API： 🔗 [Palworld Breeding Tree](https://palworld-breeding-calculator.com/palworld/breeding-tree)
 
 This is what final data looks like:
 
@@ -143,7 +145,7 @@ This project was developed following this technologies:
 - [bun](https://bun.sh/)
 - [Prettier](https://prettier.io/)
 - [ElysiaJS](https://elysiajs.com/)
-- [VS Code][vc]
+- [VS Code][https://code.visualstudio.com/]
 - [Typescript](https://www.typescriptlang.org/)
 - [elasticlunr](https://github.com/weixsong/elasticlunr.js)
 
