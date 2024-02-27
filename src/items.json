@@ -10470,11 +10470,11 @@
         "boss": true
       },
       {
-        "name": "Kingpaca Cryst",
+        "name": "Ice Kingpaca",
         "boss": false
       },
       {
-        "name": "Kingpaca Cryst",
+        "name": "Ice Kingpaca",
         "boss": true
       },
       {
@@ -14621,7 +14621,7 @@
         "boss": true
       },
       {
-        "name": "Kingpaca Cryst",
+        "name": "Ice Kingpaca",
         "boss": true
       },
       {
@@ -14810,7 +14810,7 @@
         "boss": true
       },
       {
-        "name": "Reptyro Cryst",
+        "name": "Ice Reptyro",
         "boss": true
       },
       {
@@ -20478,7 +20478,7 @@
         "boss": true
       },
       {
-        "name": "Reptyro Cryst",
+        "name": "Ice Reptyro",
         "boss": true
       },
       {
@@ -20536,7 +20536,7 @@
     "description": "An accessory that greatly lowers Ice damage.",
     "droppedBys": [
       {
-        "name": "Kingpaca Cryst",
+        "name": "Ice Kingpaca",
         "boss": true
       },
       {
@@ -22860,11 +22860,11 @@
         "boss": true
       },
       {
-        "name": "Kingpaca Cryst",
+        "name": "Ice Kingpaca",
         "boss": false
       },
       {
-        "name": "Kingpaca Cryst",
+        "name": "Ice Kingpaca",
         "boss": true
       },
       {
@@ -22903,11 +22903,11 @@
         "boss": false
       },
       {
-        "name": "Reptyro Cryst",
+        "name": "Ice Reptyro",
         "boss": false
       },
       {
-        "name": "Reptyro Cryst",
+        "name": "Ice Reptyro",
         "boss": true
       },
       {
@@ -25752,7 +25752,7 @@
         "boss": true
       },
       {
-        "name": "Reptyro Cryst",
+        "name": "Ice Reptyro",
         "boss": true
       },
       {
@@ -26087,7 +26087,7 @@
         "boss": true
       },
       {
-        "name": "Kingpaca Cryst",
+        "name": "Ice Kingpaca",
         "boss": true
       },
       {
@@ -32060,7 +32060,7 @@
     "description": "When in inventory, unlocks recipe for Head004_5(RARITY_LEGENDARY).Can be crafted at WorkBench."
   },
   {
-    "name": "Design of Witch Hat No. 5",
+    "name": "Design of Witch Hat No-5",
     "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Blueprint.webp",
     "type": "Blueprint",
     "stats": [
@@ -38268,7 +38268,7 @@
     "description": "When in inventory, unlocks recipe for CopperHelmet_5(RARITY_LEGENDARY).Can be crafted at Factory_Hard_01.",
     "droppedBys": [
       {
-        "name": "Warsect ",
+        "name": "Warsect",
         "boss": true
       }
     ]

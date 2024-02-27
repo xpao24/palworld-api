@@ -19,8 +19,13 @@ const isSameValueOrIncludedInList = (
   key: keyof IItem,
   object: IItem
 ) => {
-  if (typeof object[key as keyof IItem] === "string")
+  if (typeof object[key as keyof IItem] === "string"){
+      // 如果是比较名称，将空格替换为短横线再进行比较
+      if (key === "name") {
+        return (object[key as keyof IItem] as string).replace(/\s/g, "-") === value;
+      }
     return object[key as keyof IItem] === value;
+  }
 };
 
 export const execute = ({ page = 1, limit = 10, filter, term }: Props) => {
