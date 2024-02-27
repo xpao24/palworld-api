@@ -1,6 +1,4 @@
-import type { ItemRecipeTypeEnum } from "../enums";
-
 export interface IItemRecipe {
-  type: ItemRecipeTypeEnum;
+  type: string;
   amount: number;
 }

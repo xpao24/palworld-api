@@ -12,6 +12,6 @@ export interface IItem {
   description: string;
   stats: IStats[];
   recipes: IItemRecipe[];
-  droppdeBys:IDroppedBy[];
+  droppedBys:IDroppedBy[];
   ingredientInRecipes:IIngredientInRecipe[];
 }

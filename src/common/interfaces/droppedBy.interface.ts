@@ -1,4 +1,5 @@
 export interface IDroppedBy {
   name: string;
-  isBoss : boolean;
+  boss: boolean;
+  image: string;
 }
