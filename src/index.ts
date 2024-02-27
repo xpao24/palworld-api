@@ -1,7 +1,7 @@
 import { staticPlugin } from "@elysiajs/static";
 import { Elysia } from "elysia";
-import { queryIndexPals } from "./schemas";
-import { IndexPalsUseCase } from "./useCases";
+import { queryIndexPals,queryIndexItems } from "./schemas";
+import { IndexPalsUseCase,IndexItemsUseCase } from "./useCases";
 
 const port = process.env.PORT || 8080;
 const app = new Elysia()
@@ -12,6 +12,14 @@ const app = new Elysia()
       IndexPalsUseCase.execute({ page, limit, term, filter }),
     {
       query: queryIndexPals,
+    }
+  )
+  .get(
+    "/items",
+    ({ query: { page, limit, term, ...filter } }) =>
+      IndexItemsUseCase.execute({ page, limit, term, filter }),
+    {
+      query: queryIndexItems,
     }
   )
   .listen(port);
