@@ -1,0 +1,6137 @@
+[
+  {
+    "name": "Wheat Plantation",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_FarmBlockV2_Berries.webp",
+    "type": "Food",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "A farm that can grow Wheat.It requires an average amount of time to harvest.Requires a few Pals to plant seeds, water, and harvest crops.",
+    "recipes": [
+      {
+        "name": "Wheat Seeds",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_WheatSeeds.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "35",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "35",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Tomato Plantation",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_FarmBlockV2_Berries.webp",
+    "type": "Food",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "20000"
+      }
+    ],
+    "description": "A farm that can grow Tomato.They take time to harvest, but increase the variety of meals you can prepare.Requires a few Pals to plant seeds, water, and harvest the crops.",
+    "recipes": [
+      {
+        "name": "Tomato Seeds",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_TomatoSeeds.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "70",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Pal Fluids",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalFluid.webp"
+      }
+    ]
+  },
+  {
+    "name": "Lettuce Plantation",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_FarmBlockV2_Berries.webp",
+    "type": "Food",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "40000"
+      }
+    ],
+    "description": "A farm that can grow Lettuce.It takes time to harvest, but increases the variety of meals you can prepare.Requires a few Pals to plant seeds, water, and harvest the crops.",
+    "recipes": [
+      {
+        "name": "Lettuce Seeds",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_LettuceSeeds.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "70",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Pal Fluids",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalFluid.webp"
+      }
+    ]
+  },
+  {
+    "name": "Berry Plantation",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_FarmBlockV2_Berries.webp",
+    "type": "Food",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "A farm that can grow Berries.Harvest time is quick, but eating them doesn't provide much sustenance.Requires a few Pals to plant seeds, water, and harvest the crops.",
+    "recipes": [
+      {
+        "name": "Berry Seeds",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_BerrySeeds.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Feed Box",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_PalFoodBox.webp",
+    "type": "Food",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "A box for storing Pal food.Pals can feed from it when hungry.Make sure to keep it well-stocked to keep your Pals happy.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Foundation",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Wood_Foundation.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "A foundation for building walls or facilities on.Made from wood, it breaks easily.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Wall",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Wood_Wall_V2.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Walls built on foundations for keeping out intruders.Made from wood, it breaks easily.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Wall and Window",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Wood_WindowWall.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Wall built on a foundation for keeping out intruders. Includes a window.Made from wood, it breaks easily.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Triangular Wall",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Wood_TriangleWall.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Triangular wall built on a foundation for keeping out intruders.Made from wood, it breaks easily.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Roof",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Wood_Roof.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "A roof built on top of walls to keep out the rain and wind.Made from wood, it breaks easily.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Slanted Roof",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Wood_SlantedRoof.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Slanted roof built on top of walls to keep out the rain and wind.Made from wood, it breaks easily.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Stairs",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Wood_Stair.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Stairs placed below a foundation or roof for climbing up.Made from wood, it breaks easily.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Door",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Wood_DoorWall.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Door built on a foundation. Becomes an entrance.Made from wood, it breaks easily.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Defensive Wall",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_DefenseWall_Wood.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Massive defensive wall to prevent enemy intrusions.Made from wood, it breaks easily.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Gate",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Wood_Gate.webp",
+    "type": "Foundation",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Gate large enough for big Pals to pass through.Made from wood, it breaks easily.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stone Foundation",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stone_Foundation.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "A foundation for building walls or facilities on.Made from stone, it is reasonably sturdy.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stone Wall",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stone_Wall_V2.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Walls built on foundations for keeping out intruders.Made from stone, it is reasonably sturdy.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stone Wall and Window",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stone_WindowWall.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Wall built on a foundation for keeping out intruders. Includes a window.Made from stone, it is reasonably sturdy.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stone Triangular Wall",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stone_TriangleWall.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Triangular wall built on a foundation for keeping out intruders.Made from stone, it is reasonably sturdy.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stone Slanted Roof",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stone_SlantedRoof.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Slanted roof built on top of walls to keep out the rain and wind.Made from stone, it is reasonably sturdy.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stone Roof",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stone_Roof.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "A roof built on top of walls to keep out the rain and wind.Made from stone, it is reasonably sturdy.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stone Stairs",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stone_Stair.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Stairs placed below a foundation or roof for climbing up.Made from stone, it is reasonably sturdy.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stone Door",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stone_DoorWall.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Door built on a foundation. Becomes an entrance.Made from stone, it is reasonably sturdy.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Defensive Wall",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_DefenseWall.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Massive defensive wall to prevent enemy intrusions.Made from stone, it is reasonably sturdy.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stone Gate",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stone_Gate.webp",
+    "type": "Foundation",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Gate large enough for big Pals to pass through.Made from stone, it is reasonably sturdy.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal Foundation",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Metal_Foundation.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "A foundation for building walls or facilities on.Made from metal, it is extremely durable.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal Wall",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Metal_Wall_V2.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Walls built on foundations for keeping out intruders.Made from metal, it is extremely durable.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal Wall and Window",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Metal_WindowWall.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Wall built on a foundation for keeping out intruders. Includes a window.Made from metal, it is extremely durable.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal Triangular Wall",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Metal_TriangleWall.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Triangular wall built on a foundation for keeping out intruders.Made from metal, it is extremely durable.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal Roof",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Metal_Roof.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "A roof built on top of walls to keep out the rain and wind.Made from metal, it is extremely durable.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal Slanted Roof",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Metal_SlantedRoof.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Slanted roof built on top of walls to keep out the rain and wind.Made from metal, it is extremely durable.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal Stairs",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Metal_Stair.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Stairs placed below a foundation or roof for climbing up.Made from metal, it is extremely durable.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal Door",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Metal_DoorWall.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Door built on a foundation. Becomes an entrance.Made from metal, it is extremely durable.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal Defensive Wall",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_DefenseWall_Metal.webp",
+    "type": "Foundation",
+    "stats": [],
+    "description": "Massive defensive wall to prevent enemy intrusions.Made from metal, it is extremely durable.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      }
+    ]
+  },
+  {
+    "name": "Iron Gate",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Metal_Gate.webp",
+    "type": "Foundation",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "15000"
+      }
+    ],
+    "description": "Gate large enough for big Pals to pass through.Made from metal, it is extremely durable.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mounted Crossbow",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_efenseBulletLauncher_BowGun.webp",
+    "type": "Defense",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "Deploy a Pal to operate this defensive installation.Requires Arrow to use.Place ammo in the chest, and the deployed Pal will automatically load the weapon.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mounted Machine Gun",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_DefenseMachinegun.webp",
+    "type": "Defense",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "description": "Deploy a Pal to operate this defensive installation.Requires RifleBullet to use.Place ammo in the chest, and the deployed Pal will automatically load the weapon.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mounted Gatling Gun",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_DefenseGatlingGun.webp",
+    "type": "Defense",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "100000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "100"
+      }
+    ],
+    "description": "A defensive installation for protecting a base from enemies.It fires high-powered ammunition.Deploy a Pal to it to prepare for battle.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mounted Missile Launcher",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_efenseBulletLauncher_Missile.webp",
+    "type": "Defense",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "150000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "1000"
+      }
+    ],
+    "description": "Deploy a Pal to operate this defensive installation.Requires ExplosiveBullet to use.Place ammo in the chest, and the deployed Pal will automatically load the weapon.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      }
+    ]
+  },
+  {
+    "name": "Sandbag",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_DefenseWait.webp",
+    "type": "Defense",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Defensive installation to protect a base from enemies.Place a Pal and it will ignore other workto stay on lookout and prepare for combat.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Power Generator",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_EnergyGenerator_Electric.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "description": "A Lightning Pal-powered electric generator.Electric equipment won't run without this.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Great Eagle Statue",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_FastTravelPoint.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "A stone monument in the shape of a ChickenPal.Allows fast travel to the location where it is placed.",
+    "recipes": [
+      {
+        "name": "Paldium Fragment",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Chest",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_ItemChest.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Stores items.Made from wood, it breaks easily.It's probably not the best thing to store valuables in.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Metal Chest",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_ItemChest_02.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "Stores items.Reinforced with metal, it is somewhat durable.The increased size allows for the storage of more things.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Refined Metal Chest",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_ItemChest_03.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "description": "Stores items.Made of iron, it is extremely durable.It is useful as a large, secure storage box.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Human Bed",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_PlayerBed.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "en Text",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Wool",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wool.webp"
+      }
+    ]
+  },
+  {
+    "name": "Shoddy Bed",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_PlayerBed_02.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "A shoddy bed for humans.Use it when injured or to sleep at night.You won't be able to sleep soundly without a roof over your head.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      },
+      {
+        "name": "Wool",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wool.webp"
+      }
+    ]
+  },
+  {
+    "name": "Fine Bed",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_PlayerBed_03.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "20000"
+      }
+    ],
+    "description": "A fluffy bed for humans.Use it when injured or to sleep at night.You won't be able to sleep soundly without a roof over your head.",
+    "recipes": [
+      {
+        "name": "Cloth",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Shipping Box",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_ShippingItemBox.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "en Text",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Weapon Chest",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_WeaponChest.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "en Text",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Statue of Power",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_BuildableGoddessStatue.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Stone statue spoken of in legends on Palpagos Island.Offer up Relic to receive strange powers.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Heater",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_HeaterMedieval.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "A device that blows warm air, raising the temperature of a base.It doesn't provide much warmth, but helps one to endure somewhat cold environments.Requires a Fire Pal to light a flame.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Charcoal",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Charcoal.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Electric Heater",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_HeaterElectric.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "100000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "100"
+      }
+    ],
+    "description": "A device that blows warm air, raising the temperature of a base.Using electricity, it can really heat things up.Requires a Fire Pal to light a flame.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Cooler",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_CoolerMedieval.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "A device that blows cool air, lowering the temperature of a base.It doesn't provide much relief from the heat, but helps one to endure somewhat hot environments.Requires an Ice Pal for cooling.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IceOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Electric Cooler",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_CoolerElectric.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "100000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "100"
+      }
+    ],
+    "description": "A device that blows cool air, lowering the temperature of a base.Using electricity, it can really lower the temperature.Requires an Ice Pal for cooling.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IceOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mounted Torch",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TorchStand.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "A light source that provides illumination to a base even at night.Requires a Fire Pal to light a flame.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wall Torch",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TorchHang.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "A light source that provides illumination to a base even at night.It can be placed on walls.Requires a Fire Pal to light a flame.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_LampStand.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "10"
+      }
+    ],
+    "description": "A light source that provides illumination to a base even at night.Requires electricity, but lights up a larger area.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Ceiling Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_LampTop.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "10"
+      }
+    ],
+    "description": "A light source that provides illumination to a base even at night.It can be placed on a ceiling.Requires electricity, but lights up a larger area.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Large Mounted Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_LampStandLarge.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "20"
+      }
+    ],
+    "description": "A light source that provides illumination to a base even at night.Requires a significant amount of electricity, but lights up an even larger area.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Large Ceiling Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_LampTopLarge.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "20"
+      }
+    ],
+    "description": "A light source that provides illumination to a base even at night.It can be placed on a ceiling.Requires a significant amount of electricity, but lights up an even larger area.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Bear Trap (Small)",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Trap_LegHold.webp",
+    "type": "Defense",
+    "stats": [],
+    "description": "Trap that immobilizes Pals who step on it. The capture rate with the sphere increases when a Pal is trapped. Only effective on small Pals.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Bear Trap (Large)",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Trap_LegHold_Big.webp",
+    "type": "Defense",
+    "stats": [],
+    "description": "A bear trap to immobilize large Pals. The capture rate with the sphere increases when a Pal is trapped. Only effective on large Pals, small Pals will not be caught.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Hanging Trap",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Trap_Noose.webp",
+    "type": "Defense",
+    "stats": [],
+    "description": "Trap that catches Pals passing through it.Pals caught in the trap are easier to catch with Spheres.Only effective on small Pals.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Moving panels",
+    "stats": [],
+    "description": "A description of the moving panel",
+    "recipes": [
+      {
+        "name": "Paldium Fragment",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Electric Mine",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Trap_MineElecShock.webp",
+    "type": "Defense",
+    "stats": [],
+    "description": "Trap that electrocutes the Pal that steps on it. The electrocuted Pal has a higher capture rate with the sphere.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Ice Mine",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Trap_MineFreeze.webp",
+    "type": "Defense",
+    "stats": [],
+    "description": "Trap that freezes the Pal that steps on it. The frozen Pal has a higher capture rate with the sphere.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IceOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mine",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Trap_MineAttack.webp",
+    "type": "Defense",
+    "stats": [],
+    "description": "Trap that explodes when a Pal steps on it. It deals damage to a wide area.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Straw Pal Bed",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_MedicalPalBed_02.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "A straw bed for Pals.Pals can rest on it when injured, or to sleep at night.It isn't soft, but it's better than nothing.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Fluffy Pal Bed",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_MedicalPalBed_03.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "A fluffy bed that Pals can get a good rest on.Pals can rest on it when injured, or to sleep at night.Pals love sleeping on fluffy beds like this.",
+    "recipes": [
+      {
+        "name": "Cloth",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Large Pal Bed",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_MedicalPalBed_04.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "description": "Fluffy bed to give Pals a good rest.Pals can rest when injured or sleep at night.Even large Pals can sleep soundly on a bed like this.",
+    "recipes": [
+      {
+        "name": "High Quality Cloth",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "60",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Palbox",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_PalBoxV2.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Facility for storing captured Pals.Pals inside gradually recover Health.Area around this facility becomes a base.",
+    "recipes": [
+      {
+        "name": "Paldium Fragment",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "8",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Viewing Cage",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_DisplayCharacter.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Container for observing captured Pals.Pals inside cannot participate in battle or production,but they do not become hungry.",
+    "recipes": [
+      {
+        "name": "Paldium Fragment",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Pal Essence Condenser",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_CharacterRankUp.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      }
+    ],
+    "description": "A chamber for increasing a Pal's rank.Pals can surpass their physical limitations if givena concentrated extract taken from a Pal of the same type.",
+    "recipes": [
+      {
+        "name": "Paldium Fragment",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Ancient Civilization Parts",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalCrystal_Ex.webp"
+      }
+    ]
+  },
+  {
+    "name": "Sphere Workbench",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_SphereFactory_Black_01.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "An Assembly Line for producing spheres used for capturing Pals.A small workspace keeps the production speed slow.Requires Pals that can work with their hands.",
+    "recipes": [
+      {
+        "name": "Paldium Fragment",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Sphere Assembly Line",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_SphereFactory_Black_02.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "200"
+      }
+    ],
+    "description": "An Assembly Line for producing spheres used for capturing Pals.By splitting Pals into groups, production speeds have somewhat increased.Requires Pals that can work with their hands.",
+    "recipes": [
+      {
+        "name": "Paldium Fragment",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Sphere Assembly Line II",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_SphereFactory_Black_03.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "120000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "300"
+      }
+    ],
+    "description": "An Assembly Line for producing spheres used for capturing Pals.Through clever management, production speeds have greatly increased.Requires Pals that can work with their hands.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Superior Sphere Factory Ⅰ",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_SphereFactory_White_01.webp",
+    "type": null,
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "8"
+      }
+    ],
+    "description": "en Text",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Superior Sphere Factory Ⅱ",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_SphereFactory_White_02.webp",
+    "type": null,
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "8"
+      }
+    ],
+    "description": "en Text",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Refined Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Superior Sphere Factory Ⅲ",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_SphereFactory_White_03.webp",
+    "type": null,
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "8"
+      }
+    ],
+    "description": "en Text",
+    "recipes": [
+      {
+        "name": "Pal Metal Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_StealIngot.webp"
+      },
+      {
+        "name": "Refined Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Egg Incubator",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_HatchingPalEgg.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Used for incubating a Pal Egg.If a Pal Egg is left in it, it will automatically hatch after some time has passed.",
+    "recipes": [
+      {
+        "name": "Paldium Fragment",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Ancient Civilization Parts",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalCrystal_Ex.webp"
+      }
+    ]
+  },
+  {
+    "name": "Hot Spring",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Spa.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "Facility where Pals on base can rest.Restores SAN after a long day of hard work.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Pal Fluids",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalFluid.webp"
+      }
+    ]
+  },
+  {
+    "name": "High Quality Hot Spring",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Spa_2.webp",
+    "type": "Infrastructure",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "description": "Facility where Pals on base can rest.Now comfier and restores more SAN.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      }
+    ]
+  },
+  {
+    "name": "Primitive Furnace",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_BlastFurnace.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Allows refinement of CopperIngot.The quality leaves much to desire, and processing is slow.Requires a Fire Pal to light a flame.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Improved Furnace",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_BlastFurnace_2.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      }
+    ],
+    "description": "Allows refinement of IronIngot.The quality has improved, but the processing speed is still unsatisfactory.Requires a Fire Pal to light a flame.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Electric Furnace",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_BlastFurnace3.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "100000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "300"
+      }
+    ],
+    "description": "Allows refinement of StealIngot.It requires electricity to use, but is quicker to process.Requires a Fire Pal to light a flame.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Polymer",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Polymer.webp"
+      },
+      {
+        "name": "Carbon Fiber",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CarbonFiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Campfire",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_CampFire.webp",
+    "type": "Food",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Needed for cooking food.It can only be used to grill simple ingredients.Requires a Fire Pal to light a flame.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Cooking Pot",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_CookingStove.webp",
+    "type": "Food",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "Needed for cooking food.Use of a cooking pot allows for a wider variety of meal preparation.Requires a Fire Pal to light a flame.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Electric Kitchen",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_ElectricKitchen.webp",
+    "type": "Food",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "70000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "50"
+      }
+    ],
+    "description": "Needed for cooking food.It requires electricity to run, but allows a large amount of meals to be prepared rapidly.Requires a Fire Pal to light a flame.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Charcoal",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Charcoal.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "High Quality Workbench",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Factory_Hard_01.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "A Factory_Hard_01 for producing items and gear.A small workspace limits production speeds.Requires Pals that can work with their hands.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Production Assembly Line",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Factory_Hard_02.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "200"
+      }
+    ],
+    "description": "A Factory_Hard_01 for producing items and gear.By splitting Pals into groups, production speeds have somewhat increased.Requires Pals that can work with their hands.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      }
+    ]
+  },
+  {
+    "name": "Production Assembly Line II",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Factory_Hard_03.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "300"
+      }
+    ],
+    "description": "A Factory_Hard_01 for producing items and gear.Through clever management, production speeds have greatly increased.Requires Pals that can work with their hands.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Medieval Medicine Workbench",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_MedicineFacility_01.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "A facility for making Pal medicine.It can only produce simple medicines.Leave its operation to a Pal that can make medicine.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Electric Medicine Workbench",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_MedicineFacility_02.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "50"
+      }
+    ],
+    "description": "A facility for making Pal medicine.It requires electricity, but can produce high quality medicine.Leave its operation to a Pal that can make medicine.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "40",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Carbon Fiber",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CarbonFiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stone Pit",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_StonePit.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "A facility for producing Stone.Mining Stone is hard work that requires much physical endurance.Leave it to Pals skilled at mining.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Weapon Workbench",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_WeaponFactory_Dirty_01.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "An Assembly Line for producing weapons and ammunition.A small workspace prevents the production of high quality weapons.Requires Pals that can work with their hands.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Weapon Assembly Line",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_WeaponFactory_Dirty_02.webp",
+    "type": null,
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "30000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "200"
+      }
+    ],
+    "description": "An Assembly Line for producing weapons and ammunition.Dividing up work has allowed for the production of somewhat decent armaments.Requires Pals that can work with their hands.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      },
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalOil.webp"
+      }
+    ]
+  },
+  {
+    "name": "Weapon Assembly Line II",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_WeaponFactory_Dirty_03.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "120000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "300"
+      }
+    ],
+    "description": "An Assembly Line for producing weapons and ammunition.Cleverly dividing up work has allowed for production of top-class weapons.Requires Pals that can work with their hands.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Weapon Factory",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_WeaponFactry.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "en Text",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Water Well",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Well.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "en Text",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Primitive Workbench",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_WorkBench.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "500"
+      }
+    ],
+    "description": "A WorkBench for producing simple items.Requires a Pal that can work with their hands.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Logging Site",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_StationDeforest2.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "A facility for producing Wood.Cutting wood is hard work that requires much physical endurance.Leave it to Pals skilled in logging.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Pal Gear Workbench",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_WorkBench_SkillUnlock.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "A WorkBench for producing Pal tools.Make a saddle to ride Pals, or make a gun for Pals to use.",
+    "recipes": [
+      {
+        "name": "Paldium Fragment",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      }
+    ]
+  },
+  {
+    "name": "Crusher",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Crusher.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "Facility for breaking down Wood to exchange them for other materials.Requires Pal with the Watering trait to spin the water turbine.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wood dismantling tables",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "Facility that can saw Fiber.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Mill",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_FlourMill.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "Facility for milling Flour.Requires Pal with the Watering trait to spin the water turbine.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "40",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Breeding Farm",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_BreedFarm.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "15000"
+      }
+    ],
+    "description": "Assign one male and one female Pal to produce eggs.Placing Cake in the facility is required for production.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Repair Bench",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_RepairBench.webp",
+    "type": "Product",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Workbench for repairing broken tools.Materials are needed to make repairs.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Large Toolbox",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_ToolBoxV1.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "12000"
+      }
+    ],
+    "description": "Place in base to improve handiwork speed.Placing more than one has no additional effect.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "40",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "ToolBox",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_ToolBoxV2.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "12000"
+      }
+    ],
+    "description": "Toolbox V2",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Flame Cauldron",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_OlympicCauldron.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "16000"
+      }
+    ],
+    "description": "Place in base to improve fire-making speed.Placing more than one has no additional effect.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Water Fountain",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Fountain.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "20000"
+      }
+    ],
+    "description": "Place in base to improve watering speed.Placing more than one has no additional effect.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "200",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Pal Fluids",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalFluid.webp"
+      }
+    ]
+  },
+  {
+    "name": "Flower Bed",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_FlowerBed.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "32000"
+      }
+    ],
+    "description": "Place in base to improve gathering speed.Placing more than one has no additional effect.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Cement",
+        "amount": "40",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      },
+      {
+        "name": "Beautiful Flower",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Food_Poppy.webp"
+      }
+    ]
+  },
+  {
+    "name": "Silo",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Silo.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "40000"
+      }
+    ],
+    "description": "Place in base to improve planting speed.Placing more than one has no additional effect.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "300",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stump and Axe",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stump.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "32000"
+      }
+    ],
+    "description": "Place in base to improve logging speed.Placing more than one has no additional effect.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "150",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "40",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Pickaxe and Helmet",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_MiningTool.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "48000"
+      }
+    ],
+    "description": "Place in base to improve mining speed.Placing more than one has no additional effect.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Witch Cauldron",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Cauldron.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "60000"
+      }
+    ],
+    "description": "Place in base to improve medicine manufacturing speed.Placing more than one has no additional effect.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Pal Fluids",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalFluid.webp"
+      },
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalOil.webp"
+      }
+    ]
+  },
+  {
+    "name": "Snowman",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Snowman.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "40000"
+      }
+    ],
+    "description": "Place in base to improve cooling speed.Placing more than one has no additional effect.",
+    "recipes": [
+      {
+        "name": "Ice Organ",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IceOrgan.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      }
+    ]
+  },
+  {
+    "name": "Electric Pylon",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TransmissionTower.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "60000"
+      }
+    ],
+    "description": "Place in base to improve electricity generating speed.Placing more than one has no additional effect.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      }
+    ]
+  },
+  {
+    "name": "Monitoring Stand",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_BaseCampWorkHard.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "You can command your Pals to work on various things inside a base.Try not to overwork them!",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Cooler Box",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_CoolerBox.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Small food vault.Assign an Ice Pal to help preventfood stored inside from spoiling.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IceOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Refrigerator",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Refrigerator.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "50"
+      }
+    ],
+    "description": "Large food vault.Assign an Ice Pal to help preventfood stored inside from spoiling.",
+    "recipes": [
+      {
+        "name": "Refined Ingot",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IronIngot.webp"
+      },
+      {
+        "name": "Polymer",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Polymer.webp"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IceOrgan.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      }
+    ]
+  },
+  {
+    "name": "Sign",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Signboard.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Can be written on.Use for memos or to communicate with others.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Ranch",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_MonsterFarm.webp",
+    "type": "Pals",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "15000"
+      }
+    ],
+    "description": "Farm for raising sheep and fowl-like Pals.Assign a Pal with the appropriate Partner Skill to a farmto produce items.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Training Dummy",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_DamagedScarecrow.webp",
+    "type": "Other",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Training dummy shaped like a Penguin.Can only be placed in wide open areas.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Alarm Bell",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_BaseCampBattleDirector.webp",
+    "type": "Defense",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Bell that sets the alert status for Pals on base.Change Pal behavior to either attack invading enemies, or focus entirely on work whenever you like.",
+    "recipes": [
+      {
+        "name": "Paldium Fragment",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Barrel",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Barrel_Wood.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Wooden barrel for storing items.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Box",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Box_Wood.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Wooden box for storing items.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Shelf",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf_Wood.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Wooden shelf for storing items.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "40",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Barrel Shelf",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf_Cask_Wood.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Wooden barrel shelf for storing items.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "70",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Wall Shelf",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf_Hang01_Wood.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Wooden shelf for storing items.Can be placed on a wall.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Bookshelf",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf01_Stone.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Antique bookshelf for storing items.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "40",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Wardrobe",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf02_Stone.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "Antique wardrobe for storing items.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "70",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Chest",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf03_Stone.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Antique chest for storing items.Adorned with a photo of a Pal.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Side Chest",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf04_Stone.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2500"
+      }
+    ],
+    "description": "Antique side chest for storing items.Adorned with a photo of a Pal.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Iron Wall Shelf",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf01_Wall_Iron.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "4000"
+      }
+    ],
+    "description": "Iron wall shelf for storing items.Can be placed on a wall.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Cabinet",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf05_Stone.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Antique cabinet for storing items.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Long Cabinet",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf06_Stone.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      }
+    ],
+    "description": "Antique long cabinet for storing items.Adorned with a photo of a Pal.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "40",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Large Antique Cabinet",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf07_Stone.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "Large antique cabinet for storing items.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "40",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Wall Cabinet",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf01_Wall_Stone.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Antique cabinet for storing items.Can be placed on walls.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Red Berries",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Food_Berries.webp"
+      }
+    ]
+  },
+  {
+    "name": "Iron Shelf",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf01_Iron.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "Iron shelf for storing items.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Long Iron Shelf",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf02_Iron.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "Long iron shelf for storing items.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Orange Locker",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf03_Iron.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "12000"
+      }
+    ],
+    "description": "Orange locker for storing items.Decorated with Pal stickers.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Locker",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf04_Iron.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "12000"
+      }
+    ],
+    "description": "Locker for storing items.Decorated with Pal stickers.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Large Container",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Container01_Iron.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "50000"
+      }
+    ],
+    "description": "Large container for storing items.Imitates the designs left behind by an ancient and prosperous civilization.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Small Container",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Box01_Iron.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Small container for storing items.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Cloth Covered Container",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Box02_Iron.webp",
+    "type": "Storage",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Cloth covered container for storing items.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Wood",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      }
+    ]
+  },
+  {
+    "name": "Square Table",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TableSquare_Wood.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative square table.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Red Berries",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Food_Berries.webp"
+      }
+    ]
+  },
+  {
+    "name": "Round Table",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TableCircular_Wood.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative round table.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Red Berries",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Food_Berries.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Bench",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Bench_Wood.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative wooden bench.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Stool",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stool_Wood.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative wooden stool.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Bar Stool",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stool_High_Wood.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative bar stool.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "8",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Chair",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Chair01_Wood.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative wooden chair.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Decorative Wall Shelf",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Shelf_Hang02_Wood.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative wooden shelf.Can be placed on a wall.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wooden Counter",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Counter_Wood.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "Decorative wooden counter.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Houseplant",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Plant01_Plant.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative houseplant.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Houseplant and Chair",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Plant02_Plant.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative houseplant and chair.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Tabletop Houseplant",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Plant03_Plant.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative tabletop houseplant.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Potted Houseplant",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Plant04_Plant.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative potted houseplant.",
+    "recipes": [
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Big Wall Ivy",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Ivy01.webp",
+    "type": "Furniture",
+    "stats": [],
+    "description": "Decorative large ivy.Can be placed on a wall.",
+    "recipes": [
+      {
+        "name": "Fiber",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Small Wall Ivy",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Ivy02.webp",
+    "type": "Furniture",
+    "stats": [],
+    "description": "Decorative small ivy.Can be placed on a wall.",
+    "recipes": [
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Horizontal Wall Ivy",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Ivy03.webp",
+    "type": "Furniture",
+    "stats": [],
+    "description": "Decorative horizontal ivy.Can be placed on a wall.",
+    "recipes": [
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Carpet",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Rug01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative antique carpet.",
+    "recipes": [
+      {
+        "name": "Cloth",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Venom Gland",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Venom.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Red Carpet",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Rug02_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1500"
+      }
+    ],
+    "description": "Decorative antique red carpet.",
+    "recipes": [
+      {
+        "name": "Cloth",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Green Carpet",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Rug03_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1500"
+      }
+    ],
+    "description": "Decorative antique green carpet.",
+    "recipes": [
+      {
+        "name": "Cloth",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalOil.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Long Carpet",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Rug04_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative antique long carpet.",
+    "recipes": [
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Wooden Chair",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Chair01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative antique wooden chair.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Green Wooden Chair",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Chair02_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative antique green wooden chair.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Venom Gland",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Venom.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Stool",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stool01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative antique stool.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Desk",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Desk01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Decorative antique desk.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "25",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Round Table",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TableCircular01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative antique round table.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Dresser",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TableDresser01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2500"
+      }
+    ],
+    "description": "Decorative antique dresser.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Armchair",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Sofa01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2500"
+      }
+    ],
+    "description": "Decorative antique armchair.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Couch",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Sofa02_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Decorative antique couch.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Ottoman",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Sofa03_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1500"
+      }
+    ],
+    "description": "Decorative antique ottoman.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "8",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Bathtub",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_BathTub_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "4000"
+      }
+    ],
+    "description": "Decorative antique bathtub.",
+    "recipes": [
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Braided Basket",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Box01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1500"
+      }
+    ],
+    "description": "Decorative antique braided basket.",
+    "recipes": [
+      {
+        "name": "Fiber",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Partition",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Partition_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative antique partition.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Towel Rack",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TowlRack01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative antique towel rack.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Oval Mirror",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Mirror01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative antique oval mirror.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Mirror",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Mirror02_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative antique mirror.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "8",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Wall Mirror",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Mirror01_Wall_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative antique wall mirror.Can be placed on walls.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Grand Piano",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Piano01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "Decorative grand piano.Cannot be played.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Upright Piano",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Piano02_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "Decorative upright piano.Cannot be played.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "100",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Washstand",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TableSink01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Decorative antique washstand.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Toilet",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Toilet01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative antique toilet.Cannot be used for its original purpose.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Toilet Paper Holder",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_ToiletHolder01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "500"
+      }
+    ],
+    "description": "Decorative antique toilet paper holder.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Curtain",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Curtain01_Wall_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative antique curtain.Can be placed on walls.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Globe",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Globe01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Decorative antique globe.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "50",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Stove",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stove01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "Decorative antique stove.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Charcoal",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Charcoal.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wall Clock",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Clock01_Wall_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative wall clock.Broken, it doesn't tell time.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Paldium Fragment",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Pal_crystal_S.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Grandfather Clock",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Clock01_Stone.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "4000"
+      }
+    ],
+    "description": "Decorative antique grandfather clock.Broken, it doesn't tell time.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Iron Chair",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Chair02_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative wooden chair.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Iron Stool",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Stool01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative iron stool.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Round Iron Table",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TableCircular01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "4000"
+      }
+    ],
+    "description": "Decorative round iron table.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Iron Desk",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Desk01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "8000"
+      }
+    ],
+    "description": "Decorative iron desk.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Ironwood Side Table",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TableSide01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1500"
+      }
+    ],
+    "description": "Decorative ironwood side table.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Ironwood Table",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TableSquare01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Decorative ironwood table.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Red Berries",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Food_Berries.webp"
+      }
+    ]
+  },
+  {
+    "name": "Ironwood Low Table",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TableSquare02_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative ironwood low table.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Cable Reel",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_CableCoil01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "6000"
+      }
+    ],
+    "description": "Decorative cable reel.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Garbage Bag",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_GarbageBag_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative garbage bag.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Earthen Pipe",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_PipeClay01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative earthen pipe.",
+    "recipes": [
+      {
+        "name": "Cement",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cement.webp"
+      }
+    ]
+  },
+  {
+    "name": "Tire",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Tire01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative tire.",
+    "recipes": [
+      {
+        "name": "High Quality Pal Oil",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalOil.webp"
+      },
+      {
+        "name": "Pal Fluids",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalFluid.webp"
+      }
+    ]
+  },
+  {
+    "name": "Red Metal Barrel",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Barrel01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative red metal barrel.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Blue Metal Barrel",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Barrel02_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative blue metal barrel.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Pal Fluids",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_PalFluid.webp"
+      }
+    ]
+  },
+  {
+    "name": "Green Metal Barrel",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Barrel03_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative green metal barrel.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Venom Gland",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Venom.webp"
+      }
+    ]
+  },
+  {
+    "name": "Leather Chair",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Chair01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative leather chair.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Leather",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Leather.webp"
+      }
+    ]
+  },
+  {
+    "name": "Leather Armchair",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Sofa01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative leather armchair.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Leather",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Leather.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      }
+    ]
+  },
+  {
+    "name": "Leather Couch",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Sofa02_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "4000"
+      }
+    ],
+    "description": "Decorative leather couch.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Leather",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Leather.webp"
+      }
+    ]
+  },
+  {
+    "name": "Frog Chair",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Chair01_Pal.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Cute decorative chair.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Leather",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Leather.webp"
+      }
+    ]
+  },
+  {
+    "name": "Soccer Goal",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_GoalSoccer_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "Decorative soccer goal.Kicking a SheepBall into it will get you no points.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Fiber",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Fiber.webp"
+      }
+    ]
+  },
+  {
+    "name": "Claw Crane",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_MachineGame01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "12000"
+      }
+    ],
+    "description": "Decorative claw crane.Broken, it can't be played.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Cloth",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Cloth.webp"
+      }
+    ]
+  },
+  {
+    "name": "Cola Vending Machine",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_MachineVending01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "Decorative cola vending machine.Cannot be used to buy items.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Ice Organ",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_IceOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Old TV",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Television01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "5000"
+      }
+    ],
+    "description": "Decorative old TV.Left behind by an ancient civilization,now it only shows images of Pengullet.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Circuit Board",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectronicCircuit.webp"
+      }
+    ]
+  },
+  {
+    "name": "Emergency Exit Ceiling Sign",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_SignExit_Ceiling_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative emergency exit sign.Can be placed on ceilings.",
+    "recipes": [
+      {
+        "name": "Polymer",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Polymer.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Emergency Exit Wall Sign",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_SignExit_Wall_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative emergency exit sign.Can be placed on walls.",
+    "recipes": [
+      {
+        "name": "Polymer",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Polymer.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "Traffic Cone",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficCone01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative traffic cone.",
+    "recipes": [
+      {
+        "name": "Polymer",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Polymer.webp"
+      }
+    ]
+  },
+  {
+    "name": "Fat Traffic Cone",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficCone02_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative fat traffic cone.",
+    "recipes": [
+      {
+        "name": "Polymer",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Polymer.webp"
+      }
+    ]
+  },
+  {
+    "name": "Skinny Traffic Cone",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficCone03_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "1000"
+      }
+    ],
+    "description": "Decorative skinny traffic cone.",
+    "recipes": [
+      {
+        "name": "Polymer",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Polymer.webp"
+      }
+    ]
+  },
+  {
+    "name": "Traffic Light",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficLight01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "6000"
+      }
+    ],
+    "description": "Decorative traffic light.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "No Pals Beyond Sign",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficSign01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative No Pals Beyond sign.Used in ancient times, it now serves no real purpose.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stop Sign",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficSign02_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative Stop sign.Used in ancient times, it now serves no real purpose.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Beware of Eikthyrdeer Sign",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficSign03_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative Beware of Eikthyrdeer sign.In ancient times, collisions between Eikthyrdeer and other Pals were frequent.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Beware of Mammorest Sign",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficSign04_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative Beware of Mammorest sign.In ancient times, those who angered a Mammorest were often killed.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Barricade",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficBarricade01_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative barricade.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Orange Barricade",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficBarricade02_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "Decorative orange barricade.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Polymer",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Polymer.webp"
+      }
+    ]
+  },
+  {
+    "name": "Red Iron Barricade",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficBarricade03_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative red barricade.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Flame Organ",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_FireOrgan.webp"
+      }
+    ]
+  },
+  {
+    "name": "White Iron Barricade",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficBarricade04_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative white barricade.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Iron Fence",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_TrafficBarricade05_Iron.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "3000"
+      }
+    ],
+    "description": "Decorative iron fence.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      }
+    ]
+  },
+  {
+    "name": "Tuppanyan sticker",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "en Text",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Fur rug",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Rug_Wood.webp",
+    "type": "Furniture",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "2000"
+      }
+    ],
+    "description": "en Text",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "1",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      }
+    ]
+  },
+  {
+    "name": "Brick Fireplace",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Light_FirePlace01.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "Brick fireplace that provides illumination.Must be lit with fire from a Fire Pal.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Charcoal",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Charcoal.webp"
+      }
+    ]
+  },
+  {
+    "name": "Fireplace",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Light_FirePlace02.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      }
+    ],
+    "description": "Fireplace that provides illumination.Must be lit with fire from a Fire Pal.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "15",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Stone",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Stone.webp"
+      },
+      {
+        "name": "Charcoal",
+        "amount": "5",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Charcoal.webp"
+      }
+    ]
+  },
+  {
+    "name": "Simple Street Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Light_LightPole01.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "10"
+      }
+    ],
+    "description": "Simple street lamp that provides illumination.Requires electricity to light.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Double Street Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Light_LightPole02.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "10"
+      }
+    ],
+    "description": "Double street lamp that provides illumination.Requires electricity to light.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Retro Street Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Light_LightPole03.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "10"
+      }
+    ],
+    "description": "Retro street lamp that provides illumination.Requires electricity to light.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Stylish Street Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Light_LightPole04.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "10"
+      }
+    ],
+    "description": "Stylish street lamp that provides illumination.Requires electricity to light.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Brown Floor Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Light_FloorLamp01.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "10"
+      }
+    ],
+    "description": "Antique brown floor lamp that provides illumination.Requires electricity to light.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Antique Red Floor Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Light_FloorLamp02.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "10"
+      }
+    ],
+    "description": "Antique red floor lamp that provides illumination.Requires electricity to light.",
+    "recipes": [
+      {
+        "name": "Wood",
+        "amount": "30",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_Wood.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Chandelier",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Light_CandleSticks_Top.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "10000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "10"
+      }
+    ],
+    "description": "Chandelier that provides illumination.Requires electricity to light.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "20",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "3",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  },
+  {
+    "name": "Wall Lamp",
+    "image": "https://assets.palworldtrainer.com/images/T_icon_buildObject_Light_CandleSticks_Wall.webp",
+    "type": "Light",
+    "stats": [
+      {
+        "name": "Build Work",
+        "value": "7000"
+      },
+      {
+        "name": "Energy Type",
+        "value": "Electric"
+      },
+      {
+        "name": "Consume Energy Speed",
+        "value": "7"
+      }
+    ],
+    "description": "Wall lamp that provides illumination.Requires electricity to light.",
+    "recipes": [
+      {
+        "name": "Ingot",
+        "amount": "10",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_CopperIngot.webp"
+      },
+      {
+        "name": "Electric Organ",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_ElectricOrgan.webp"
+      },
+      {
+        "name": "Nail",
+        "amount": "2",
+        "image": "https://assets.palworldtrainer.com/images/T_itemicon_Material_MachineParts.webp"
+      }
+    ]
+  }
+]

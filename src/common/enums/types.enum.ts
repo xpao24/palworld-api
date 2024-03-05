@@ -23,3 +23,16 @@ export enum ItemTypesEnum {
   GLIDER = "glider",
   BLUEPRINT = "blueprint"
 }
+
+export enum StructureTypesEnum {
+  Food = "food",
+  Foundation = "foundation",
+  Defense = "defense",
+  Infrastructure = "infrastructure",
+  Storage = "storage",
+  Pals = "pals",
+  Light = "light",
+  Product = "product",
+  Furniture = "furniture",
+  Other = "other",
+}
