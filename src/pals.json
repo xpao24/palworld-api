@@ -146,7 +146,12 @@
       }
     ],
     "power": 1470,
-    "order": 27
+    "order": 27,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "D"
+    }
   },
   {
     "id": 2,
@@ -294,7 +299,12 @@
       }
     ],
     "power": 1460,
-    "order": 46
+    "order": 46,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "C"
+    }
   },
   {
     "id": 3,
@@ -439,7 +449,12 @@
       }
     ],
     "power": 1500,
-    "order": 62
+    "order": 62,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "D"
+    }
   },
   {
     "id": 4,
@@ -596,7 +611,12 @@
       }
     ],
     "power": 1430,
-    "order": 7
+    "order": 7,
+    "tier": {
+      "overall": "A",
+      "battle": "A",
+      "work": "C"
+    }
   },
   {
     "id": 5,
@@ -737,7 +757,12 @@
       }
     ],
     "power": 1400,
-    "order": 20
+    "order": 20,
+    "tier": {
+      "overall": "A",
+      "battle": "A",
+      "work": "D"
+    }
   },
   {
     "id": 6,
@@ -886,7 +911,12 @@
       }
     ],
     "power": 1330,
-    "order": 59
+    "order": 59,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 7,
@@ -1030,7 +1060,12 @@
       }
     ],
     "power": 1410,
-    "order": 65
+    "order": 65,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 8,
@@ -1182,7 +1217,12 @@
       }
     ],
     "power": 1250,
-    "order": 107
+    "order": 107,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 9,
@@ -1323,7 +1363,12 @@
       }
     ],
     "power": 1155,
-    "order": 138
+    "order": 138,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "D"
+    }
   },
   {
     "id": 10,
@@ -1477,7 +1522,12 @@
       }
     ],
     "power": 1350,
-    "order": 23
+    "order": 23,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 11,
@@ -1635,7 +1685,12 @@
       }
     ],
     "power": 520,
-    "order": 122
+    "order": 122,
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "A"
+    }
   },
   {
     "id": 12,
@@ -1771,7 +1826,12 @@
       }
     ],
     "power": 1370,
-    "order": 17
+    "order": 17,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "D"
+    }
   },
   {
     "id": 13,
@@ -1913,7 +1973,12 @@
       }
     ],
     "power": 1240,
-    "order": 112
+    "order": 112,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "D"
+    }
   },
   {
     "id": 14,
@@ -2058,7 +2123,12 @@
       }
     ],
     "power": 1450,
-    "order": 79
+    "order": 79,
+    "tier": {
+      "overall": "A",
+      "battle": "D",
+      "work": "C"
+    }
   },
   {
     "id": 15,
@@ -2199,7 +2269,12 @@
       }
     ],
     "power": 1390,
-    "order": 82
+    "order": 82,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "D"
+    }
   },
   {
     "id": 16,
@@ -2335,7 +2410,12 @@
       }
     ],
     "power": 1490,
-    "order": 14
+    "order": 14,
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "D"
+    }
   },
   {
     "id": 17,
@@ -2479,7 +2559,12 @@
       }
     ],
     "power": 1380,
-    "order": 47
+    "order": 47,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 18,
@@ -2619,7 +2704,12 @@
       }
     ],
     "power": 1455,
-    "order": 135
+    "order": 135,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 19,
@@ -2768,7 +2858,12 @@
       }
     ],
     "power": 1230,
-    "order": 106
+    "order": 106,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "C"
+    }
   },
   {
     "id": 20,
@@ -2914,7 +3009,13 @@
       }
     ],
     "power": 1130,
-    "order": 6
+    "order": 6,
+    "tier": {
+      "overall": "A",
+      "battle": "C",
+      "work": "C",
+      "riding": "C"
+    }
   },
   {
     "id": 21,
@@ -3055,7 +3156,12 @@
       }
     ],
     "power": 1180,
-    "order": 121
+    "order": 121,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "D"
+    }
   },
   {
     "id": 22,
@@ -3199,7 +3305,12 @@
       }
     ],
     "power": 1220,
-    "order": 101
+    "order": 101,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "C"
+    }
   },
   {
     "id": 23,
@@ -3339,7 +3450,12 @@
       }
     ],
     "power": 1290,
-    "order": 85
+    "order": 85,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 24,
@@ -3475,7 +3591,12 @@
       }
     ],
     "power": 1480,
-    "order": 4
+    "order": 4,
+    "tier": {
+      "overall": "A",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 25,
@@ -3615,7 +3736,12 @@
       }
     ],
     "power": 870,
-    "order": 128
+    "order": 128,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "C"
+    }
   },
   {
     "id": 26,
@@ -3761,7 +3887,13 @@
       }
     ],
     "power": 1060,
-    "order": 15
+    "order": 15,
+    "tier": {
+      "overall": "A",
+      "battle": "C",
+      "work": "D",
+      "riding": "A"
+    }
   },
   {
     "id": 27,
@@ -3902,7 +4034,12 @@
       }
     ],
     "power": 1340,
-    "order": 8
+    "order": 8,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "D"
+    }
   },
   {
     "id": 28,
@@ -4059,7 +4196,12 @@
       }
     ],
     "power": 1280,
-    "order": 91
+    "order": 91,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "C"
+    }
   },
   {
     "id": 29,
@@ -4200,7 +4342,12 @@
       }
     ],
     "power": 910,
-    "order": 86
+    "order": 86,
+    "tier": {
+      "overall": "A",
+      "battle": "D",
+      "work": "C"
+    }
   },
   {
     "id": 30,
@@ -4357,7 +4504,12 @@
       }
     ],
     "power": 1320,
-    "order": 21
+    "order": 21,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 31,
@@ -4501,7 +4653,12 @@
       }
     ],
     "power": 1090,
-    "order": 25
+    "order": 25,
+    "tier": {
+      "overall": "A",
+      "battle": "A",
+      "work": "B"
+    }
   },
   {
     "id": 32,
@@ -4645,7 +4802,12 @@
       }
     ],
     "power": 1420,
-    "order": 31
+    "order": 31,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "B"
+    }
   },
   {
     "id": 33,
@@ -4803,7 +4965,13 @@
       }
     ],
     "power": 430,
-    "order": 97
+    "order": 97,
+    "tier": {
+      "overall": "A",
+      "battle": "A",
+      "work": "A",
+      "riding": "C"
+    }
   },
   {
     "id": 34,
@@ -4944,7 +5112,12 @@
       }
     ],
     "power": 1190,
-    "order": 39
+    "order": 39,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "D"
+    }
   },
   {
     "id": 35,
@@ -5094,7 +5267,12 @@
       }
     ],
     "power": 930,
-    "order": 75
+    "order": 75,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "B"
+    }
   },
   {
     "id": 36,
@@ -5235,7 +5413,13 @@
       }
     ],
     "power": 890,
-    "order": 41
+    "order": 41,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "D",
+      "riding": "B"
+    }
   },
   {
     "id": 37,
@@ -5381,7 +5565,13 @@
       }
     ],
     "power": 920,
-    "order": 9
+    "order": 9,
+    "tier": {
+      "overall": "A",
+      "battle": "C",
+      "work": "B",
+      "riding": "B"
+    }
   },
   {
     "id": 38,
@@ -5517,7 +5707,13 @@
       }
     ],
     "power": 420,
-    "order": 90
+    "order": 90,
+    "tier": {
+      "overall": "A",
+      "battle": "C",
+      "work": "C",
+      "flying": "D"
+    }
   },
   {
     "id": 39,
@@ -5666,7 +5862,12 @@
       }
     ],
     "power": 1310,
-    "order": 117
+    "order": 117,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 40,
@@ -5820,7 +6021,12 @@
       }
     ],
     "power": 590,
-    "order": 2
+    "order": 2,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "A"
+    }
   },
   {
     "id": 41,
@@ -5970,7 +6176,12 @@
       }
     ],
     "power": 490,
-    "order": 132
+    "order": 132,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "B"
+    }
   },
   {
     "id": 42,
@@ -6115,7 +6326,13 @@
       }
     ],
     "power": 790,
-    "order": 99
+    "order": 99,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "B",
+      "riding": "B"
+    }
   },
   {
     "id": 43,
@@ -6207,7 +6424,12 @@
       }
     ],
     "power": 895,
-    "order": 136
+    "order": 136,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "B"
+    }
   },
   {
     "id": 44,
@@ -6353,7 +6575,12 @@
       }
     ],
     "power": 1080,
-    "order": 44
+    "order": 44,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "D"
+    }
   },
   {
     "id": 45,
@@ -6502,7 +6729,12 @@
       }
     ],
     "power": 1120,
-    "order": 57
+    "order": 57,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "D"
+    }
   },
   {
     "id": 46,
@@ -6638,7 +6870,12 @@
       }
     ],
     "power": 950,
-    "order": 30
+    "order": 30,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "C"
+    }
   },
   {
     "id": 47,
@@ -6779,7 +7016,12 @@
       }
     ],
     "power": 1030,
-    "order": 12
+    "order": 12,
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "B"
+    }
   },
   {
     "id": 48,
@@ -6940,7 +7182,12 @@
       }
     ],
     "power": 1020,
-    "order": 52
+    "order": 52,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B"
+    }
   },
   {
     "id": 49,
@@ -7089,7 +7336,12 @@
       }
     ],
     "power": 1040,
-    "order": 16
+    "order": 16,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "A"
+    }
   },
   {
     "id": 50,
@@ -7249,7 +7501,12 @@
       }
     ],
     "power": 1070,
-    "order": 95
+    "order": 95,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "B"
+    }
   },
   {
     "id": 51,
@@ -7406,7 +7663,12 @@
       }
     ],
     "power": 330,
-    "order": 94
+    "order": 94,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "A"
+    }
   },
   {
     "id": 52,
@@ -7542,7 +7804,13 @@
       }
     ],
     "power": 510,
-    "order": 131
+    "order": 131,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "C",
+      "riding": "B"
+    }
   },
   {
     "id": 53,
@@ -7682,7 +7950,12 @@
       }
     ],
     "power": 1300,
-    "order": 114
+    "order": 114,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "C"
+    }
   },
   {
     "id": 54,
@@ -7822,7 +8095,13 @@
       }
     ],
     "power": 410,
-    "order": 115
+    "order": 115,
+    "tier": {
+      "overall": "B",
+      "battle": "S",
+      "work": "B",
+      "riding": "D"
+    }
   },
   {
     "id": 55,
@@ -7963,7 +8242,13 @@
       }
     ],
     "power": 800,
-    "order": 123
+    "order": 123,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "D",
+      "riding": "B"
+    }
   },
   {
     "id": 56,
@@ -8113,7 +8398,13 @@
       }
     ],
     "power": 680,
-    "order": 19
+    "order": 19,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B",
+      "riding": "A"
+    }
   },
   {
     "id": 57,
@@ -8254,7 +8545,12 @@
       }
     ],
     "power": 760,
-    "order": 104
+    "order": 104,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "B"
+    }
   },
   {
     "id": 58,
@@ -8399,7 +8695,13 @@
       }
     ],
     "power": 360,
-    "order": 35
+    "order": 35,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B",
+      "riding": "S"
+    }
   },
   {
     "id": 59,
@@ -8554,7 +8856,13 @@
       }
     ],
     "power": 880,
-    "order": 76
+    "order": 76,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "B",
+      "riding": "C"
+    }
   },
   {
     "id": 60,
@@ -8690,7 +8998,13 @@
       }
     ],
     "power": 740,
-    "order": 100
+    "order": 100,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "C",
+      "riding": "A"
+    }
   },
   {
     "id": 61,
@@ -8831,7 +9145,13 @@
       }
     ],
     "power": 830,
-    "order": 56
+    "order": 56,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "C",
+      "riding": "B"
+    }
   },
   {
     "id": 62,
@@ -8975,7 +9295,12 @@
       }
     ],
     "power": 1210,
-    "order": 24
+    "order": 24,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "D"
+    }
   },
   {
     "id": 63,
@@ -9119,7 +9444,12 @@
       }
     ],
     "power": 1110,
-    "order": 22
+    "order": 22,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "A"
+    }
   },
   {
     "id": 64,
@@ -9260,7 +9590,13 @@
       }
     ],
     "power": 820,
-    "order": 63
+    "order": 63,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B",
+      "riding": "C"
+    }
   },
   {
     "id": 65,
@@ -9396,7 +9732,12 @@
       }
     ],
     "power": 560,
-    "order": 42
+    "order": 42,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 66,
@@ -9541,7 +9882,13 @@
       }
     ],
     "power": 1150,
-    "order": 51
+    "order": 51,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B",
+      "riding": "B"
+    }
   },
   {
     "id": 67,
@@ -9682,7 +10029,12 @@
       }
     ],
     "power": 850,
-    "order": 11
+    "order": 11,
+    "tier": {
+      "overall": "D",
+      "battle": "B",
+      "work": "D"
+    }
   },
   {
     "id": 68,
@@ -9831,7 +10183,12 @@
       }
     ],
     "power": 750,
-    "order": 96
+    "order": 96,
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "A"
+    }
   },
   {
     "id": 69,
@@ -9999,7 +10356,12 @@
       }
     ],
     "power": 940,
-    "order": 81
+    "order": 81,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "A"
+    }
   },
   {
     "id": 70,
@@ -10152,7 +10514,12 @@
       }
     ],
     "power": 1405,
-    "order": 137
+    "order": 137,
+    "tier": {
+      "overall": "B",
+      "battle": "D",
+      "work": "C"
+    }
   },
   {
     "id": 71,
@@ -10303,7 +10670,13 @@
       }
     ],
     "power": 660,
-    "order": 60
+    "order": 60,
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "A",
+      "flying": "C"
+    }
   },
   {
     "id": 72,
@@ -10460,7 +10833,12 @@
       }
     ],
     "power": 640,
-    "order": 127
+    "order": 127,
+    "tier": {
+      "overall": "A",
+      "battle": "A",
+      "work": "S"
+    }
   },
   {
     "id": 73,
@@ -10604,7 +10982,13 @@
       }
     ],
     "power": 220,
-    "order": 118
+    "order": 118,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "A",
+      "flying": "B"
+    }
   },
   {
     "id": 74,
@@ -10744,7 +11128,13 @@
       }
     ],
     "power": 380,
-    "order": 126
+    "order": 126,
+    "tier": {
+      "overall": "S",
+      "battle": "A",
+      "work": "S",
+      "flying": "A"
+    }
   },
   {
     "id": 75,
@@ -10898,7 +11288,12 @@
       }
     ],
     "power": 700,
-    "order": 116
+    "order": 116,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "A"
+    }
   },
   {
     "id": 76,
@@ -11047,7 +11442,12 @@
       }
     ],
     "power": 1160,
-    "order": 80
+    "order": 80,
+    "tier": {
+      "overall": "A",
+      "battle": "A",
+      "work": "A"
+    }
   },
   {
     "id": 77,
@@ -11204,7 +11604,12 @@
       }
     ],
     "power": 990,
-    "order": 103
+    "order": 103,
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "S"
+    }
   },
   {
     "id": 78,
@@ -11361,7 +11766,12 @@
       }
     ],
     "power": 1050,
-    "order": 89
+    "order": 89,
+    "tier": {
+      "overall": "A",
+      "battle": "A",
+      "work": "A"
+    }
   },
   {
     "id": 79,
@@ -11510,7 +11920,12 @@
       }
     ],
     "power": 450,
-    "order": 78
+    "order": 78,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "B"
+    }
   },
   {
     "id": 80,
@@ -11646,7 +12061,13 @@
       }
     ],
     "power": 540,
-    "order": 37
+    "order": 37,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "B",
+      "flying": "C"
+    }
   },
   {
     "id": 81,
@@ -11787,7 +12208,12 @@
       }
     ],
     "power": 1260,
-    "order": 83
+    "order": 83,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "D"
+    }
   },
   {
     "id": 82,
@@ -11924,7 +12350,12 @@
       }
     ],
     "power": 500,
-    "order": 45
+    "order": 45,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "A"
+    }
   },
   {
     "id": 83,
@@ -12068,7 +12499,12 @@
       }
     ],
     "power": 130,
-    "order": 40
+    "order": 40,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "A"
+    }
   },
   {
     "id": 84,
@@ -12208,7 +12644,13 @@
       }
     ],
     "power": 710,
-    "order": 108
+    "order": 108,
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "A",
+      "riding": "B"
+    }
   },
   {
     "id": 85,
@@ -12354,7 +12796,13 @@
       }
     ],
     "power": 280,
-    "order": 54
+    "order": 54,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B",
+      "riding": "B"
+    }
   },
   {
     "id": 86,
@@ -12495,7 +12943,13 @@
       }
     ],
     "power": 860,
-    "order": 71
+    "order": 71,
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "A",
+      "riding": "D"
+    }
   },
   {
     "id": 87,
@@ -12647,7 +13101,12 @@
       }
     ],
     "power": 780,
-    "order": 130
+    "order": 130,
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "A"
+    }
   },
   {
     "id": 88,
@@ -12788,7 +13247,13 @@
       }
     ],
     "power": 320,
-    "order": 49
+    "order": 49,
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "S",
+      "riding": "D"
+    }
   },
   {
     "id": 89,
@@ -12924,7 +13389,13 @@
       }
     ],
     "power": 470,
-    "order": 110
+    "order": 110,
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "D",
+      "riding": "C"
+    }
   },
   {
     "id": 90,
@@ -13078,7 +13549,13 @@
       }
     ],
     "power": 300,
-    "order": 68
+    "order": 68,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "A",
+      "riding": "D"
+    }
   },
   {
     "id": 91,
@@ -13231,7 +13708,13 @@
       }
     ],
     "power": 460,
-    "order": 87
+    "order": 87,
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "S",
+      "riding": "D"
+    }
   },
   {
     "id": 92,
@@ -13521,7 +14004,13 @@
       }
     ],
     "power": 980,
-    "order": 48
+    "order": 48,
+    "tier": {
+      "overall": "S",
+      "battle": "C",
+      "work": "B",
+      "riding": "A"
+    }
   },
   {
     "id": 94,
@@ -13662,7 +14151,12 @@
       }
     ],
     "power": 1010,
-    "order": 70
+    "order": 70,
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B"
+    }
   },
   {
     "id": 95,
@@ -13810,7 +14304,13 @@
       }
     ],
     "power": 350,
-    "order": 124
+    "order": 124,
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "A",
+      "flying": "B"
+    }
   },
   {
     "id": 96,
@@ -13955,7 +14455,13 @@
       }
     ],
     "power": 10,
-    "order": 74
+    "order": 74,
+    "tier": {
+      "overall": "S",
+      "battle": "S",
+      "work": "S",
+      "riding": "B"
+    }
   },
   {
     "id": 97,
@@ -14096,7 +14602,13 @@
       }
     ],
     "power": 190,
-    "order": 125
+    "order": 125,
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "A",
+      "flying": "B"
+    }
   },
   {
     "id": 98,
@@ -14242,7 +14754,13 @@
       }
     ],
     "power": 150,
-    "order": 102
+    "order": 102,
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "S",
+      "flying": "C"
+    }
   },
   {
     "id": 99,
@@ -14388,7 +14906,12 @@
       }
     ],
     "power": 260,
-    "order": 133
+    "order": 133,
+    "tier": {
+      "overall": "A",
+      "battle": "A",
+      "work": "A"
+    }
   },
   {
     "id": 100,
@@ -14542,7 +15065,12 @@
       }
     ],
     "power": 570,
-    "order": 1
+    "order": 1,
+    "tier": {
+      "overall": "S",
+      "battle": "A",
+      "work": "S"
+    }
   },
   {
     "id": 101,
@@ -14679,7 +15207,13 @@
       }
     ],
     "power": 310,
-    "order": 28
+    "order": 28,
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "S",
+      "riding": "D"
+    }
   },
   {
     "id": 102,
@@ -14815,7 +15349,13 @@
       }
     ],
     "power": 50,
-    "order": 33
+    "order": 33,
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "A",
+      "flying": "B"
+    }
   },
   {
     "id": 103,
@@ -14968,7 +15508,13 @@
       }
     ],
     "power": 200,
-    "order": 13
+    "order": 13,
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "S",
+      "riding": "D"
+    }
   },
   {
     "id": 104,
@@ -15126,7 +15672,12 @@
       }
     ],
     "power": 250,
-    "order": 92
+    "order": 92,
+    "tier": {
+      "overall": "S",
+      "battle": "S",
+      "work": "S"
+    }
   },
   {
     "id": 105,
@@ -15266,7 +15817,13 @@
       }
     ],
     "power": 370,
-    "order": 73
+    "order": 73,
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "S",
+      "flying": "A"
+    }
   },
   {
     "id": 106,
@@ -15411,7 +15968,12 @@
       }
     ],
     "power": 140,
-    "order": 134
+    "order": 134,
+    "tier": {
+      "overall": "S",
+      "battle": "S",
+      "work": "S"
+    }
   },
   {
     "id": 107,
@@ -15557,7 +16119,13 @@
       }
     ],
     "power": 60,
-    "order": 77
+    "order": 77,
+    "tier": {
+      "overall": "S",
+      "battle": "S",
+      "work": "D",
+      "flying": "B"
+    }
   },
   {
     "id": 108,
@@ -15702,7 +16270,13 @@
       }
     ],
     "power": 80,
-    "order": 120
+    "order": 120,
+    "tier": {
+      "overall": "S",
+      "battle": "S",
+      "work": "B",
+      "riding": "S"
+    }
   },
   {
     "id": 109,
@@ -15847,7 +16421,13 @@
       }
     ],
     "power": 70,
-    "order": 129
+    "order": 129,
+    "tier": {
+      "overall": "S",
+      "battle": "S",
+      "work": "B",
+      "riding": "S"
+    }
   },
   {
     "id": 110,
@@ -15988,7 +16568,13 @@
       }
     ],
     "power": 120,
-    "order": 66
+    "order": 66,
+    "tier": {
+      "overall": "S",
+      "battle": "S",
+      "work": "A",
+      "flying": "A"
+    }
   },
   {
     "id": 111,
@@ -16139,7 +16725,13 @@
       }
     ],
     "power": 90,
-    "order": 105
+    "order": 105,
+    "tier": {
+      "overall": "S",
+      "battle": "S",
+      "work": "A",
+      "flying": "S"
+    }
   },
   {
     "id": 112,
@@ -16275,7 +16867,12 @@
         "name": "Slow Walk Speed",
         "value": "30"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "D"
+    }
   },
   {
     "id": 113,
@@ -16420,7 +17017,12 @@
         "name": "Slow Walk Speed",
         "value": "52"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "A",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 114,
@@ -16564,7 +17166,12 @@
         "name": "Slow Walk Speed",
         "value": "50"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B"
+    }
   },
   {
     "id": 115,
@@ -16717,7 +17324,12 @@
         "name": "Slow Walk Speed",
         "value": "50"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "B"
+    }
   },
   {
     "id": 116,
@@ -16875,7 +17487,13 @@
         "name": "Slow Walk Speed",
         "value": "50"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "A",
+      "riding": "C"
+    }
   },
   {
     "id": 117,
@@ -17021,7 +17639,13 @@
         "name": "Slow Walk Speed",
         "value": "80"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "B",
+      "riding": "B"
+    }
   },
   {
     "id": 118,
@@ -17170,7 +17794,12 @@
         "name": "Slow Walk Speed",
         "value": "80"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "A"
+    }
   },
   {
     "id": 119,
@@ -17323,7 +17952,12 @@
         "name": "Slow Walk Speed",
         "value": "100"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "C"
+    }
   },
   {
     "id": 120,
@@ -17481,7 +18115,12 @@
         "name": "Slow Walk Speed",
         "value": "100"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B"
+    }
   },
   {
     "id": 121,
@@ -17627,7 +18266,13 @@
         "name": "Slow Walk Speed",
         "value": "100"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B",
+      "riding": "S"
+    }
   },
   {
     "id": 122,
@@ -17768,7 +18413,13 @@
         "name": "Slow Walk Speed",
         "value": "70"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "B",
+      "riding": "C"
+    }
   },
   {
     "id": 123,
@@ -17904,7 +18555,12 @@
         "name": "Slow Walk Speed",
         "value": "100"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "D"
+    }
   },
   {
     "id": 124,
@@ -18055,7 +18711,13 @@
         "name": "Slow Walk Speed",
         "value": "100"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "A",
+      "flying": "C"
+    }
   },
   {
     "id": 125,
@@ -18196,7 +18858,13 @@
         "name": "Slow Walk Speed",
         "value": "83"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "B",
+      "work": "A",
+      "flying": "C"
+    }
   },
   {
     "id": 126,
@@ -18337,7 +19005,12 @@
         "name": "Slow Walk Speed",
         "value": "50"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "D"
+    }
   },
   {
     "id": 127,
@@ -18478,7 +19151,13 @@
         "name": "Slow Walk Speed",
         "value": "60"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "A",
+      "riding": "B"
+    }
   },
   {
     "id": 128,
@@ -18629,7 +19308,13 @@
         "name": "Slow Walk Speed",
         "value": "40"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "S",
+      "work": "B",
+      "riding": "B"
+    }
   },
   {
     "id": 129,
@@ -18771,7 +19456,13 @@
         "name": "Slow Walk Speed",
         "value": "50"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "C",
+      "work": "A",
+      "riding": "D"
+    }
   },
   {
     "id": 130,
@@ -19211,7 +19902,13 @@
         "name": "Slow Walk Speed",
         "value": "100"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "B",
+      "battle": "A",
+      "work": "A",
+      "riding": "D"
+    }
   },
   {
     "id": 133,
@@ -19369,7 +20066,13 @@
         "name": "Slow Walk Speed",
         "value": "70"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "A",
+      "battle": "B",
+      "work": "S",
+      "riding": "D"
+    }
   },
   {
     "id": 134,
@@ -19511,7 +20214,13 @@
         "name": "Slow Walk Speed",
         "value": "100"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "S",
+      "riding": "D"
+    }
   },
   {
     "id": 135,
@@ -19647,7 +20356,13 @@
         "name": "Slow Walk Speed",
         "value": "100"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "A",
+      "flying": "B"
+    }
   },
   {
     "id": 136,
@@ -19801,7 +20516,12 @@
         "name": "Slow Walk Speed",
         "value": "60"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "A",
+      "battle": "S",
+      "work": "S"
+    }
   },
   {
     "id": 137,
@@ -19942,6 +20662,12 @@
         "name": "Slow Walk Speed",
         "value": "120"
       }
-    ]
+    ],
+    "tier": {
+      "overall": "S",
+      "battle": "S",
+      "work": "A",
+      "flying": "A"
+    }
   }
 ]
