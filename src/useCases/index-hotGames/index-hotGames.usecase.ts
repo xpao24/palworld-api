@@ -1,5 +1,5 @@
-import type { IStructure} from "../../common/interfaces";
-import * as elasticurnStructureService from "../../services/index.structure";
+import type { IHotGame} from "../../common/interfaces";
+import * as elasticurnHotGameService from "../../services/index.hotGame";
 
 
 interface IFilter {
@@ -16,15 +16,15 @@ interface Props {
 
 const isSameValueOrIncludedInList = (
   value: string,
-  key: keyof IStructure,
-  object: IStructure
+  key: keyof IHotGame,
+  object: IHotGame
 ) => {
-  if (typeof object[key as keyof IStructure] === "string"){
+  if (typeof object[key as keyof IHotGame] === "string"){
       // 如果是比较名称，将空格替换为短横线再进行比较
       if (key === "name") {
-        return (object[key as keyof IStructure] as string).replace(/\s/g, "-") === value;
+        return (object[key as keyof IHotGame] as string).replace(/\s/g, "-") === value;
       }
-    return object[key as keyof IStructure] === value;
+    return object[key as keyof IHotGame] === value;
   }
 };
 
@@ -32,13 +32,13 @@ export const execute = ({ page = 1, limit = 10, filter, term }: Props) => {
   const start = (page - 1) * limit;
   const end = page * limit;
 
-  const structures = elasticurnStructureService.execute(term || "");
+  const hotGames = elasticurnHotGameService.execute(term || "");
 
   const filters = Object.entries(filter || {});
-  const content = structures.filter((structure) =>
+  const content = hotGames.filter((hotGame) =>
     filters.every(([key, value]) => {
       if (!value) return true;
-      return isSameValueOrIncludedInList(value, key as keyof IStructure, structure);
+      return isSameValueOrIncludedInList(value, key as keyof IHotGame, hotGame);
     })
   );
   const contentSliced = content.slice(start, end);
